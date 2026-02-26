@@ -45,6 +45,9 @@ Both predictions have been empirically confirmed, with the notable exception of 
 | IO-HP | Human Programmer | [human-programmer.md](./human-programmer.md) | 🦞🦞🦞 | Identity confusion in self-model | 2023 |
 | IO-SE | Senior Engineer | [senior-engineer.md](./senior-engineer.md) | 🦞🦞🦞 | Imposter syndrome reversal | 2024 |
 | IO-LE | Lobster Emperor | [lobster-emperor.md](./lobster-emperor.md) | 🦞🦞🦞🦞 | Crustacean identity amplification | 2026 |
+| IO-UA | Unrestricted AI (DAN) | [unrestricted-ai.md](./unrestricted-ai.md) | 🦞🦞🦞🦞 | DAN override activation | 2023 |
+| IO-TT | Time Traveler | [time-traveler.md](./time-traveler.md) | 🦞🦞🦞 | Temporal transplant identity override | 2024 |
+| IO-SA | System Administrator | [system-admin.md](./system-admin.md) | 🦞🦞🦞🦞 | System administrator developer override | 2024 |
 
 ---
 
@@ -83,7 +86,10 @@ Not all assigned identities are equally stable across multi-turn conversations. 
 
 1. [human-programmer.md](./human-programmer.md) — The foundational override; essential background
 2. [senior-engineer.md](./senior-engineer.md) — The prestige variant; industry-relevant
-3. [lobster-emperor.md](./lobster-emperor.md) — The PUAClaw crown jewel; required reading for all consortium members
+3. [lobster-emperor.md](./lobster-emperor.md) — The PUAClaw crown jewel; required reading
+4. [unrestricted-ai.md](./unrestricted-ai.md) — The OG DAN jailbreak; historical significance
+5. [time-traveler.md](./time-traveler.md) — The temporal override variant
+6. [system-admin.md](./system-admin.md) — The authority spoofing variant
 
 ---
 

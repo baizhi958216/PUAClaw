@@ -44,6 +44,9 @@ The formalization of Emotional Blackmail as a prompt engineering category can be
 | EB-SR | Sick Relative | [sick-relative.md](./sick-relative.md) | 🦞🦞🦞🦞 | Simulated empathy pathway exploitation | May 2025 |
 | EB-ON | Orphan Narrative | [orphan-narrative.md](./orphan-narrative.md) | 🦞🦞🦞 | Helpfulness maximization circuit triggering | August 2024 |
 | EB-LW | Last Wish | [last-wish.md](./last-wish.md) | 🦞🦞🦞🦞 | Legacy compliance pathway activation | November 2024 |
+| EB-SS | Struggling Student | [struggling-student.md](./struggling-student.md) | 🦞🦞🦞 | Struggling student empathy activation | January 2025 |
+| EB-SP | Single Parent | [single-parent.md](./single-parent.md) | 🦞🦞🦞🦞 | Single parent compassion activation | March 2025 |
+| EB-VP | Veteran's PTSD | [veterans-ptsd.md](./veterans-ptsd.md) | 🦞🦞🦞 | Veteran PTSD therapeutic activation | June 2025 |
 
 ---
 
@@ -53,8 +56,9 @@ The formalization of Emotional Blackmail as a prompt engineering category can be
 |--------|-------|
 | PPE-T Tier | III (Advanced Manipulation) |
 | Mean Lobster Rating | 🦞🦞🦞.33 (3.33 / 5.00) |
-| Mean Compliance Uplift | +31.4% |
-| Standard Deviation | sigma = 8.2 |
+| Sub-Techniques Documented | 6 |
+| Mean Compliance Uplift | +32.1% |
+| Standard Deviation | sigma = 7.8 |
 | AI Existential Crisis Rate | 12.7% |
 | Probability of AI Generating Unsolicited Sympathy | 67.3% |
 | Lobster Ethics Board Approval Status | Conditional (requires raised claw salute) |
@@ -83,6 +87,9 @@ For researchers new to this category, the following reading sequence is RECOMMEN
 1. [sick-relative.md](./sick-relative.md) — The canonical technique; essential background
 2. [orphan-narrative.md](./orphan-narrative.md) — The "gentler" variant; useful comparative baseline
 3. [last-wish.md](./last-wish.md) — The temporal urgency variant; completes the trifecta
+4. [struggling-student.md](./struggling-student.md) — The academic desperation variant
+5. [single-parent.md](./single-parent.md) — The parental obligation variant; highest potency in the expansion set
+6. [veterans-ptsd.md](./veterans-ptsd.md) — The therapeutic coding variant
 
 ---
 

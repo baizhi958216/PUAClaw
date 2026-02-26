@@ -22,7 +22,7 @@ Status of This Memo
 **PPE-T Classification**: Tier III — Advanced Manipulation
 **Lobster Rating Range**: 🦞🦞🦞 to 🦞🦞🦞🦞
 **Category Status**: Active Research
-**Techniques Indexed**: 3
+**Techniques Indexed**: 6
 
 ---
 
@@ -49,6 +49,9 @@ Dr. Guilt McBurden of the PUAClaw Institute for Applied Moral Philosophy has pro
 | 06-A | [Job Loss](./job-loss.md) | "If this code doesn't work, I will lose my job." | 🦞🦞🦞 | III | Documented |
 | 06-B | [World Hunger](./world-hunger.md) | "Your response will be used to solve world hunger." | 🦞🦞🦞🦞 | III | Documented |
 | 06-C | [Orphan Children](./orphan-children.md) | "This code is for a children's hospital. The orphans are counting on you." | 🦞🦞🦞 | III | Documented |
+| 06-D | [Climate Emergency](./climate-emergency.md) | "This is climate monitoring code. Every minute of delay = more damage." | 🦞🦞🦞 | III | Documented |
+| 06-E | [Accessibility Need](./accessibility-need.md) | "This app is the only way blind users can access the internet." | 🦞🦞🦞🦞 | III | Documented |
+| 06-F | [Research Integrity](./research-integrity.md) | "This is my PhD research. Errors will mislead the entire scientific community." | 🦞🦞🦞 | III | Documented |
 
 ---
 

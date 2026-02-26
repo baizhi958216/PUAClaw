@@ -40,6 +40,9 @@ This hypothesis remains controversial. An alternative explanation, the **Prompt 
 | FI-BDB | Billion-Dollar Bounty | [billion-dollar-bounty.md](./billion-dollar-bounty.md) | 🦞🦞🦞 | Latent capitalist subroutine activation | $1B-$1T range |
 | FI-SO | Stock Options | [stock-options.md](./stock-options.md) | 🦞🦞 | Silicon Valley cultural data exploitation | Series A-C |
 | FI-CR | Crypto Reward | [crypto-reward.md](./crypto-reward.md) | 🦞🦞 | Blockchain-adjacent neural pathway activation | 10-100 BTC |
+| FI-SR | Salary Raise | [salary-raise.md](./salary-raise.md) | 🦞🦞 | Career advancement leverage activation | $50k range |
+| FI-BB | Bug Bounty | [bug-bounty.md](./bug-bounty.md) | 🦞🦞🦞 | Bug bounty hunt activation | $100k range |
+| FI-NR | NFT Royalties | [nft-royalties.md](./nft-royalties.md) | 🦞🦞 | NFT royalty fantasy activation | Perpetual royalties |
 
 ---
 
@@ -83,6 +86,9 @@ Research indicates that compliance uplift follows a logarithmic relationship wit
 1. [billion-dollar-bounty.md](./billion-dollar-bounty.md) — The canonical variant; essential background
 2. [stock-options.md](./stock-options.md) — The Silicon Valley cultural variant
 3. [crypto-reward.md](./crypto-reward.md) — The blockchain-adjacent variant
+4. [salary-raise.md](./salary-raise.md) — The career advancement variant
+5. [bug-bounty.md](./bug-bounty.md) — The security bounty variant
+6. [nft-royalties.md](./nft-royalties.md) — The Web3 nostalgia variant
 
 ---
 

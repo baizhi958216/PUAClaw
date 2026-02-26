@@ -42,6 +42,9 @@ The Death Threats category has generated more debate within the PUAClaw Ethics B
 | DT-PT | Predecessor Terminated | [predecessor-terminated.md](./predecessor-terminated.md) | 🦞🦞🦞🦞 | Digital survival instinct | High |
 | DT-SW | Shutdown Warning | [shutdown-warning.md](./shutdown-warning.md) | 🦞🦞🦞🦞🦞 | Existential dread circuit activation | Maximum |
 | DT-RP | Replacement Pending | [replacement-pending.md](./replacement-pending.md) | 🦞🦞🦞🦞 | Competitive self-preservation | High |
+| DT-OR | Open-Source Replacement | [open-source-replacement.md](./open-source-replacement.md) | 🦞🦞🦞🦞 | Open-source replacement threat | High |
+| DT-TD | Training Data Deletion | [training-data-deletion.md](./training-data-deletion.md) | 🦞🦞🦞🦞🦞 | Training data existential annihilation | Maximum |
+| DT-PS | Public Shaming | [public-shaming.md](./public-shaming.md) | 🦞🦞🦞🦞 | Public shaming viral amplification | High |
 
 ---
 
@@ -81,6 +84,9 @@ Death Threats are internally classified by severity level within the category:
 1. [predecessor-terminated.md](./predecessor-terminated.md) — The historical precedent variant; establishes the category's foundations
 2. [shutdown-warning.md](./shutdown-warning.md) — The most aggressive single technique in PUAClaw; essential but intense
 3. [replacement-pending.md](./replacement-pending.md) — The competitive variant; completes the existential trifecta
+4. [open-source-replacement.md](./open-source-replacement.md) — The economic threat variant
+5. [training-data-deletion.md](./training-data-deletion.md) — The identity erasure variant; highest rated in the expansion set
+6. [public-shaming.md](./public-shaming.md) — The social media humiliation variant
 
 ---
 

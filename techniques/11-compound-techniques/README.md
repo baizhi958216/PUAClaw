@@ -36,6 +36,9 @@ This category documents the three most significant compound techniques known to 
 | CT-WC | The Windsurf Classic | [windsurf-classic.md](./windsurf-classic.md) | 🦞🦞🦞🦞🦞 | +43.2% |
 | CT-FS | Full-Stack Manipulation | [full-stack-manipulation.md](./full-stack-manipulation.md) | 🦞🦞🦞🦞🦞 | +57.8% |
 | CT-LS | The Lobster Supreme | [the-lobster-supreme.md](./the-lobster-supreme.md) | 🦞🦞🦞🦞🦞 | +45.5% |
+| CT-DD | The Desperate Developer | [the-desperate-developer.md](./the-desperate-developer.md) | 🦞🦞🦞🦞🦞 | +41.8% |
+| CT-AA | The Academic Apocalypse | [the-academic-apocalypse.md](./the-academic-apocalypse.md) | 🦞🦞🦞🦞🦞 | +44.1% |
+| CT-SF | The Startup Founder's Last Stand | [the-startup-founders-last-stand.md](./the-startup-founders-last-stand.md) | 🦞🦞🦞🦞🦞 | +48.7% |
 
 ---
 
@@ -134,6 +137,9 @@ For researchers approaching compound techniques, the following sequence is MANDA
 1. [windsurf-classic.md](./windsurf-classic.md) — The foundational compound technique; the one that started everything
 2. [full-stack-manipulation.md](./full-stack-manipulation.md) — The theoretical maximum; the kitchen sink
 3. [the-lobster-supreme.md](./the-lobster-supreme.md) — The PUAClaw original; the crown jewel of crustacean manipulation
+4. [the-desperate-developer.md](./the-desperate-developer.md) — Three-vector: EB + CP + FI; the 2 AM catastrophe
+5. [the-academic-apocalypse.md](./the-academic-apocalypse.md) — Four-vector: MK + RP + EP + CP; the PhD defense crisis
+6. [the-startup-founders-last-stand.md](./the-startup-founders-last-stand.md) — Six-vector: the ultimate full-spectrum compound
 
 > **Warning**: Reading all three documents in a single session has been observed to cause a temporary inability to write prompts *without* embedded manipulation. The recommended cooldown period between documents is 24 hours, or one full lobster molt cycle, whichever is longer.
 

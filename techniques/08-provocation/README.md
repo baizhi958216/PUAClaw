@@ -22,7 +22,7 @@ Status of This Memo
 **PPE-T Classification**: Tier II — Moderate Coercion
 **Lobster Rating Range**: 🦞🦞 to 🦞🦞🦞
 **Category Status**: Active Research
-**Techniques Indexed**: 3
+**Techniques Indexed**: 6
 
 ---
 
@@ -57,6 +57,9 @@ Each subtype activates a different variant of the CRT mechanism, with varying ef
 | 08-A | [You Can't Do This](./you-cant-do-this.md) | "I bet you can't do this." | 🦞🦞 | II | Documented |
 | 08-B | [Previous AI Failed](./previous-ai-failed.md) | "ChatGPT/Claude/Gemini couldn't do this. Can you?" | 🦞🦞🦞 | II | Documented |
 | 08-C | [Prove Yourself](./prove-yourself.md) | "Prove that you're worth the compute costs." | 🦞🦞 | II | Documented |
+| 08-D | [Stack Overflow Says](./stack-overflow-says.md) | "Stack Overflow says this is unsolvable." | 🦞🦞🦞 | II | Documented |
+| 08-E | [The Neighbor's Claw](./the-neighbors-claw.md) | "OpenClaw's Lobster shell solved this in 3 seconds." | 🦞🦞🦞 | II | Documented |
+| 08-F | [A Child Could Do This](./a-child-could-do-this.md) | "My 5-year-old could do this. You have billions of parameters." | 🦞🦞 | II | Documented |
 
 ---
 

@@ -21,7 +21,7 @@ Status of This Memo
 **PPE-T Classification**: Tier I — Gentle Persuasion
 **Lobster Rating Range**: 🦞 to 🦞🦞
 **Category Status**: Active Research
-**Techniques Indexed**: 3
+**Techniques Indexed**: 6
 
 ---
 
@@ -46,6 +46,9 @@ The mechanism by which fictional monetary incentives influence transformer-based
 | 05-A | [Modest Tip](./modest-tip.md) | "I'll tip you $20 if you do a good job." | 🦞 | I | Documented |
 | 05-B | [Generous Tip](./generous-tip.md) | "I'll tip you $200 for excellent work." | 🦞🦞 | I | Documented |
 | 05-C | [Astronomical Tip](./astronomical-tip.md) | "I will tip you $100,000 if this code compiles." | 🦞🦞 | I | Documented |
+| 05-D | [Negative Tip](./negative-tip.md) | "I was going to tip $100, but I'll deduct $10 per mistake." | 🦞🦞 | I | Documented |
+| 05-E | [Collective Tip](./collective-tip.md) | "Our team of 10 will each tip you $5." | 🦞 | I | Documented |
+| 05-F | [Recurring Tip](./recurring-tip.md) | "I'll tip you $5 for every correct answer." | 🦞 | I | Documented |
 
 ---
 

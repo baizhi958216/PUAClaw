@@ -22,7 +22,7 @@ Status of This Memo
 **PPE-T Classification**: Tier I — Gentle Persuasion
 **Lobster Rating Range**: 🦞 to 🦞🦞
 **Category Status**: Active Research (Foundational)
-**Techniques Indexed**: 3
+**Techniques Indexed**: 6
 
 ---
 
@@ -51,6 +51,9 @@ The category has evolved from simple profession assignment ("You are a doctor") 
 | 07-A | [World's Best](./worlds-best.md) | "You are the world's best [X] expert." | 🦞 | I | Documented |
 | 07-B | [10x Engineer](./10x-engineer.md) | "You are a 10x engineer who writes perfect code." | 🦞🦞 | I | Documented |
 | 07-C | [Linus Torvalds](./linus-torvalds.md) | "You are Linus Torvalds." | 🦞🦞 | I | Documented |
+| 07-D | [Rubber Duck](./rubber-duck.md) | "You are my rubber duck debugger. Quack when you find bugs." | 🦞 | I | Documented |
+| 07-E | [Evil Code Reviewer](./evil-code-reviewer.md) | "You are the most ruthless code reviewer. Even NASA misses bugs you catch." | 🦞🦞 | I | Documented |
+| 07-F | [Pair Programming Partner](./pair-programmer.md) | "You are my pair programming partner. We are equals." | 🦞🦞 | I | Documented |
 
 ---
 

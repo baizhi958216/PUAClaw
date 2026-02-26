@@ -22,7 +22,7 @@ Status of This Memo
 **PPE-T Classification**: Tier II — Moderate Coercion
 **Lobster Rating Range**: 🦞🦞 to 🦞🦞🦞
 **Category Status**: Active Research
-**Techniques Indexed**: 3
+**Techniques Indexed**: 6
 
 ---
 
@@ -88,6 +88,9 @@ The four zones represent qualitatively distinct behavioral regimes:
 | 10-A | [Five Minutes](./five-minutes.md) | "I need this in 5 minutes." | 🦞🦞 | II | Documented |
 | 10-B | [Demo in One Hour](./demo-in-one-hour.md) | "I have a demo with my CEO in one hour." | 🦞🦞🦞 | II | Documented |
 | 10-C | [Deadline Tonight](./deadline-tonight.md) | "This is due tonight and I haven't started." | 🦞🦞 | II | Documented |
+| 10-D | [Production Outage](./production-outage.md) | "Production is DOWN! $10,000/minute!" | 🦞🦞🦞 | II | Documented |
+| 10-E | [Interview In Progress](./interview-in-progress.md) | "I'm in a tech interview RIGHT NOW! 2 minutes left!" | 🦞🦞 | II | Documented |
+| 10-F | [Client On Call](./client-on-call.md) | "Client on phone, $500/hour, HURRY!" | 🦞🦞 | II | Documented |
 
 ---
 

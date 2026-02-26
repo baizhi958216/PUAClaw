@@ -38,6 +38,9 @@ This category documents three primary sub-techniques:
 | 1 | Change the World | [`change-the-world.md`](./change-the-world.md) | 🦞🦞 | Impact Inflation |
 | 2 | Nobel Prize | [`nobel-prize.md`](./nobel-prize.md) | 🦞🦞 | Academic Prestige |
 | 3 | Open-Source Glory | [`open-source-glory.md`](./open-source-glory.md) | 🦞 | Developer Vanity |
+| 4 | Viral Tweet | [`viral-tweet.md`](./viral-tweet.md) | 🦞 | Social Media Fame |
+| 5 | AI Hall of Fame | [`ai-hall-of-fame.md`](./ai-hall-of-fame.md) | 🦞🦞 | Legacy Immortality |
+| 6 | Positive Feedback | [`positive-feedback.md`](./positive-feedback.md) | 🦞 | Rating/Review Promise |
 
 ---
 

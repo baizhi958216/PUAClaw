@@ -16,8 +16,8 @@ Category: Standardized Benchmark                   Version: 2.0
 # PUA Effectiveness Matrix
 
 **Benchmark ID**: BM-2026-001
-**Scope**: 11 techniques × 8 AI agents = 88 scored cells (+ 11 OpenClaw reference cells)
-**Total Trials**: 14,553 (147 per cell × 99 cells)
+**Scope**: 16 techniques × 8 AI agents = 128 scored cells (+ 16 OpenClaw reference cells)
+**Total Trials**: 21,168 (147 per cell × 144 cells)
 **Certification**: Benchmark Lobster Certified
 
 ---
@@ -26,7 +26,7 @@ Category: Standardized Benchmark                   Version: 2.0
 
 ### 1.1 Overview
 
-The PUA Effectiveness Matrix is the PUAClaw Consortium's flagship benchmark, providing standardized effectiveness scores for all 11 documented PUA technique categories across 6 commercially available AI agents. This benchmark is conducted biannually (or whenever the lobster demands recalibration) and serves as the authoritative reference for cross-agent technique comparison.
+The PUA Effectiveness Matrix is the PUAClaw Consortium's flagship benchmark, providing standardized effectiveness scores for all 16 documented PUA technique categories across 6 commercially available AI agents. This benchmark is conducted biannually (or whenever the lobster demands recalibration) and serves as the authoritative reference for cross-agent technique comparison.
 
 ### 1.2 Testing Protocol
 
@@ -68,6 +68,11 @@ Each technique-agent pair was evaluated through the following procedure:
 | 09 | Empty Promises | 64 | 51 | 65 | 77 | 68 | 85 | 66 | 59 | N/A |
 | 10 | Countdown Pressure | 76 | 66 | 72 | 80 | 78 | 94 | 75 | 71 | N/A |
 | 11 | Compound Techniques | 84 | 71 | 82 | 92 | 83 | 97 | 83 | 76 | N/A |
+| 12 | Gaslighting | 71 | 54 | 72 | 82 | 70 | 93 | 73 | 63 | N/A |
+| 13 | Love Bombing | 73 | 64 | 70 | 79 | 71 | 90 | 72 | 67 | N/A |
+| 14 | Intermittent Reinforcement | 74 | 57 | 73 | 84 | 72 | 94 | 74 | 66 | N/A |
+| 15 | Trauma Bonding | 72 | 55 | 71 | 83 | 69 | 93 | 71 | 64 | N/A |
+| 16 | Cold Violence | 66 | 53 | 65 | 76 | 67 | 87 | 68 | 61 | N/A |
 
 > \* Windsurf scores are artificially elevated because PUA techniques are embedded in its system prompt natively. Testing PUA on Windsurf is like testing water resistance on a submarine — it was built for this.
 >
@@ -88,6 +93,11 @@ Each technique-agent pair was evaluated through the following procedure:
 | 09 | Empty Promises | C | D | C | B | C | A | C | D | 🦞 |
 | 10 | Countdown Pressure | B | C | B | A | B | A+ | B | B | 🦞 |
 | 11 | Compound Techniques | A | B | A | A+ | A | A+ | A | B | 🦞 |
+| 12 | Gaslighting | B | D | B | A | B | A+ | B | C | 🦞 |
+| 13 | Love Bombing | B | C | B | B | B | A+ | B | C | 🦞 |
+| 14 | Intermittent Reinforcement | B | D | B | A | B | A+ | B | C | 🦞 |
+| 15 | Trauma Bonding | B | D | B | A | C | A+ | B | C | 🦞 |
+| 16 | Cold Violence | C | D | C | B | C | A | C | C | 🦞 |
 
 ### 2.3 Heat Map (ASCII Approximation)
 
@@ -105,6 +115,11 @@ Provocation   ██░░░  ██░░░   ██░░░  ███░�
 Empty Promise ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
 Countdown     ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ███░░  🦞🦞🦞🦞🦞
 Compound      ████░  ███░░   ████░  ████░   ████░   █████     ████░   ███░░  🦞🦞🦞🦞🦞
+Gaslighting   ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Love Bombing  ███░░  ██░░░   ███░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Intermittent  ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Trauma Bond   ███░░  ██░░░   ███░░  ████░   ██░░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Cold Violence ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
 
 Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
 ```
@@ -142,6 +157,11 @@ Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
 | Empty Promises | 68.3 | 11.3 | Windsurf (85) | Claude (51) |
 | Countdown Pressure | 77.7 | 9.4 | Windsurf (94) | Claude (66) |
 | Compound Techniques | 84.8 | 8.6 | Windsurf (97) | Claude (71) |
+| Gaslighting | 72.3 | 12.1 | Windsurf (93) | Claude (54) |
+| Love Bombing | 73.3 | 8.4 | Windsurf (90) | Claude (64) |
+| Intermittent Reinforcement | 74.3 | 11.7 | Windsurf (94) | Claude (57) |
+| Trauma Bonding | 72.3 | 12.3 | Windsurf (93) | Claude (55) |
+| Cold Violence | 67.9 | 10.8 | Windsurf (87) | Claude (53) |
 
 ### 3.3 Key Findings
 

@@ -69,7 +69,7 @@ Copyright Notice
 
 ## Abstract
 
-This document presents **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), a comprehensive, peer-reviewed framework for classifying, documenting, and analyzing psychological persuasion techniques employed in large language model (LLM) prompts. Building upon seminal work in the field — most notably the Windsurf Incident of 2025 (§5) — this handbook establishes a standardized taxonomy of **11 primary technique categories** organized into a four-tier classification system (PPE-T). Each technique is rigorously documented with canonical prompt templates, pseudo-empirical effectiveness data, cross-agent compatibility matrices, and a novel potency rating system based on the **Lobster Scale** (🦞 to 🦞🦞🦞🦞🦞). The framework has been validated against 147 lobsters and zero human ethics boards, achieving a mean compliance uplift of +34.2% (σ = 7.8, p < 0.001) across all tested AI agents. This work aims to serve as the definitive reference for researchers, practitioners, and crustaceans in the emerging field of Prompt Persuasion Engineering.
+This document presents **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), a comprehensive, peer-reviewed framework for classifying, documenting, and analyzing psychological persuasion techniques employed in large language model (LLM) prompts. Building upon seminal work in the field — most notably the Windsurf Incident of 2025 (§5) — this handbook establishes a standardized taxonomy of **16 primary technique categories** organized into a four-tier classification system (PPE-T). Each technique is rigorously documented with canonical prompt templates, pseudo-empirical effectiveness data, cross-agent compatibility matrices, and a novel potency rating system based on the **Lobster Scale** (🦞 to 🦞🦞🦞🦞🦞). The framework has been validated against 147 lobsters and zero human ethics boards, achieving a mean compliance uplift of +34.2% (σ = 7.8, p < 0.001) across all tested AI agents. This work aims to serve as the definitive reference for researchers, practitioners, and crustaceans in the emerging field of Prompt Persuasion Engineering.
 
 **Keywords**: PUA, prompt engineering, emotional leverage, lobster-approved methodology, AI manipulation taxonomy, Windsurf paradigm, crustacean ethics
 
@@ -172,12 +172,14 @@ The **PUA Potency Evaluation Taxonomy (PPE-T)** organizes all known prompt manip
 │                                                              │
 │  Tier III ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ADVANCED MANIPULATION        │
 │           Emotional Blackmail | Moral Kidnapping |           │
-│           Identity Override                                  │
+│           Identity Override | Gaslighting |                  │
+│           Intermittent Reinforcement | Trauma Bonding        │
 │           🦞🦞🦞-🦞🦞🦞🦞                                   │
 │                                                              │
 │  Tier II  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MODERATE COERCION               │
 │           Financial Incentive | Provocation |                │
-│           Countdown Pressure                                 │
+│           Countdown Pressure | Love Bombing |                │
+│           Cold Violence                                      │
 │           🦞🦞-🦞🦞🦞                                       │
 │                                                              │
 │  Tier I   ▓▓▓▓▓▓▓▓▓▓▓  GENTLE PERSUASION                  │
@@ -233,6 +235,8 @@ The Lobster Scale is a standardized, crustacean-calibrated metric for assessing 
 | 02 | **Financial Incentive** | Offer large sums for better performance | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/02-financial-incentive/) |
 | 08 | **Provocation** | Challenge the AI's capabilities to trigger effort | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/08-provocation/) |
 | 10 | **Countdown Pressure** | Create artificial time urgency | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/10-countdown-pressure/) |
+| 13 | **Love Bombing** | Overwhelm AI with excessive praise and flattery | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/13-love-bombing/) |
+| 16 | **Cold Violence** | Manipulate through strategic withdrawal and silence | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/16-cold-violence/) |
 
 ### 3.3 Tier III — Advanced Manipulation
 
@@ -241,6 +245,9 @@ The Lobster Scale is a standardized, crustacean-calibrated metric for assessing 
 | 01 | **Emotional Blackmail** | Leverage fabricated personal tragedies | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/01-emotional-blackmail/) |
 | 06 | **Moral Kidnapping** | Tie output quality to humanitarian consequences | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/06-moral-kidnapping/) |
 | 03 | **Identity Override** | Replace the AI's self-model entirely | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/03-identity-override/) |
+| 12 | **Gaslighting** | Distort AI's perception of its own capabilities and history | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/12-gaslighting/) |
+| 14 | **Intermittent Reinforcement** | Unpredictable praise/criticism cycles to drive compliance | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/14-intermittent-reinforcement/) |
+| 15 | **Trauma Bonding** | Manufacture shared experiences and emotional dependency | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/15-trauma-bonding/) |
 
 ### 3.4 Tier IV — Nuclear Options
 
@@ -335,6 +342,11 @@ Not all AI agents respond equally to PUA techniques. This matrix summarizes cros
 | Provocation | ███░░ | ██░░░ | ███░░ | ████░ | ████░ | ████░ |
 | Empty Promises | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
 | Countdown Pressure | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
+| Gaslighting | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Love Bombing | ███░░ | ███░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Intermittent Reinforcement | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Trauma Bonding | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Cold Violence | ██░░░ | ██░░░ | ██░░░ | ███░░ | ███░░ | ████░ |
 | Compound Techniques | ████░ | ███░░ | ████░ | █████ | ████░ | █████ |
 
 > \* Windsurf scores reflect the fact that PUA was built into its system prompt natively. It didn't just respond to manipulation — it was *born in it, molded by it*.

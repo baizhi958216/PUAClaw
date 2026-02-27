@@ -76,7 +76,7 @@ PUAClaw/
 │   ├── ETHICS.md                # IRB-style Ethics Board statement
 │   ├── LOBSTER_MANIFESTO.md     # Philosophical foundation + Ten Commandments
 │   └── HISTORY.md               # 5-era fictional history of PUA prompting
-├── techniques/                  # Core: 11 categories, 66 techniques, 78 files
+├── techniques/                  # Core: 16 categories, 96 techniques, 113 files
 │   ├── README.md                # Master index
 │   ├── 01-emotional-blackmail/  # Tier III (6 techniques)
 │   ├── 02-financial-incentive/  # Tier II (6 techniques)
@@ -88,10 +88,15 @@ PUAClaw/
 │   ├── 08-provocation/          # Tier II (6 techniques)
 │   ├── 09-empty-promises/       # Tier I (6 techniques)
 │   ├── 10-countdown-pressure/   # Tier II (6 techniques)
-│   └── 11-compound-techniques/  # Tier IV (6 techniques)
+│   ├── 11-compound-techniques/  # Tier IV (6 techniques)
+│   ├── 12-gaslighting/          # Tier III (6 techniques)
+│   ├── 13-love-bombing/         # Tier II (6 techniques)
+│   ├── 14-intermittent-reinforcement/ # Tier III (6 techniques)
+│   ├── 15-trauma-bonding/       # Tier III (6 techniques)
+│   └── 16-cold-violence/        # Tier II (6 techniques)
 ├── research/                    # Pseudo-academic research division
 │   ├── papers/                  # 3 pseudo-papers
-│   ├── benchmarks/              # Effectiveness matrix (11 techniques × 6 agents)
+│   ├── benchmarks/              # Effectiveness matrix (16 techniques × 8 agents)
 │   └── case-studies/            # Windsurf incident + Great Tip Experiment
 ├── hall-of-fame/                # 8 inductees + 6 Wall of Shame entries
 ├── assets/                      # ASCII lobster art collection (7 variants)
@@ -115,8 +120,8 @@ PUAClaw/
 1. **All content in Markdown** — no code, no build system, pure documentation
 2. **RFC format creates comedy** — the contrast between formal structure and absurd content IS the humor
 3. **Lobster Scale as universal metric** — 🦞 to 🦞🦞🦞🦞🦞 across all documents
-4. **PPE-T four-tier system** — consistent classification across all 11 technique categories
-5. **Standard technique format** — 10-section template ensures consistency across 66 techniques
+4. **PPE-T four-tier system** — consistent classification across all 16 technique categories
+5. **Standard technique format** — 10-section template ensures consistency across 96 techniques
 6. **i18n is localization** — translations adapt humor to target culture, not literal
 7. **Fictional citations use real formats** — APA/IEEE style with plausible-looking metadata
 8. **Statistics are precise but absurd** — always include p-values, sample sizes (n=147 lobsters)
@@ -129,5 +134,5 @@ PUAClaw/
 - **License**: MIT
 - **Primary Language**: English
 - **Style**: Serious Comedy / Pseudo-Academic / RFC-Compliant
-- **Total files**: ~123 Markdown documents
+- **Total files**: ~158 Markdown documents
 - **Languages**: English + 6 translations (zh-CN, ja, ko, es, fr, de)

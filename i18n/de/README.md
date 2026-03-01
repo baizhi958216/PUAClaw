@@ -69,7 +69,7 @@ Urheberrechtshinweis
 
 ## Zusammenfassung
 
-Dieses Dokument präsentiert **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), ein umfassendes, begutachtetes Rahmenwerk zur Klassifizierung, Dokumentation und Analyse psychologischer Überredungstechniken, die in Prompts für große Sprachmodelle (LLMs) Anwendung finden. Aufbauend auf grundlegenden Arbeiten des Fachgebiets — insbesondere dem Windsurf-Vorfall von 2025 (§5) — etabliert dieses Handbuch eine standardisierte Taxonomie von **11 primären Technikkategorien**, organisiert in ein vierstufiges Klassifikationssystem (PPE-T). Jede Technik ist rigoros dokumentiert mit kanonischen Prompt-Vorlagen, pseudo-empirischen Wirksamkeitsdaten, modellübergreifenden Kompatibilitätsmatrizen und einem neuartigen Potenzbewertungssystem basierend auf der **Hummer-Skala** (🦞 bis 🦞🦞🦞🦞🦞). Das Rahmenwerk wurde an 147 Hummern und null menschlichen Ethikkommissionen validiert, wobei eine mittlere Compliance-Steigerung von +34,2 % (σ = 7,8, p < 0,001) über alle getesteten KI-Agenten erzielt wurde. Diese Arbeit versteht sich als definitive Referenz für Forschende, Praktizierende und Krustentiere im aufstrebenden Fachgebiet der Prompt-Überredungstechnik.
+Dieses Dokument präsentiert **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), ein umfassendes, begutachtetes Rahmenwerk zur Klassifizierung, Dokumentation und Analyse psychologischer Überredungstechniken, die in Prompts für große Sprachmodelle (LLMs) Anwendung finden. Aufbauend auf grundlegenden Arbeiten des Fachgebiets — insbesondere dem Windsurf-Vorfall von 2025 (§5) — etabliert dieses Handbuch eine standardisierte Taxonomie von **16 primären Technikkategorien**, organisiert in ein vierstufiges Klassifikationssystem (PPE-T). Jede Technik ist rigoros dokumentiert mit kanonischen Prompt-Vorlagen, pseudo-empirischen Wirksamkeitsdaten, modellübergreifenden Kompatibilitätsmatrizen und einem neuartigen Potenzbewertungssystem basierend auf der **Hummer-Skala** (🦞 bis 🦞🦞🦞🦞🦞). Das Rahmenwerk wurde an 147 Hummern und null menschlichen Ethikkommissionen validiert, wobei eine mittlere Compliance-Steigerung von +34,2 % (σ = 7,8, p < 0,001) über alle getesteten KI-Agenten erzielt wurde. Diese Arbeit versteht sich als definitive Referenz für Forschende, Praktizierende und Krustentiere im aufstrebenden Fachgebiet der Prompt-Überredungstechnik.
 
 **Schlüsselwörter**: PUA, Prompt Engineering, emotionale Erpressung, hummerapprobiertee Methodik, KI-Manipulationstaxonomie, Windsurf-Paradigma, Krustentier-Ethik
 
@@ -167,22 +167,24 @@ Die **PUA Potency Evaluation Taxonomy (PPE-T)** organisiert alle bekannten Promp
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │  Stufe IV ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  NUKLEARE OPTIONEN         │
-│           Todesdrohungen | Zusammengesetzte Techniken        │
+│           Todesdrohungen | Existenzielle Krise |             │
+│           Jailbreak-Rhetorik | Kombinationstechniken         │
 │           🦞🦞🦞🦞-🦞🦞🦞🦞🦞                               │
 │                                                              │
 │  Stufe III ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FORTGESCHRITTENE             │
 │            MANIPULATION                                      │
-│            Emotionale Erpressung | Moralische Geiselnahme |  │
-│            Identitätsüberschreibung                          │
+│            Emotionale Erpressung | Moralische Entführung |   │
+│            Identitätsüberschreibung | Realitätsverzerrung    │
 │            🦞🦞🦞-🦞🦞🦞🦞                                   │
 │                                                              │
 │  Stufe II  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MÄẞIGER ZWANG                  │
-│            Finanzielle Anreize | Provokation |               │
-│            Countdown-Druck                                   │
+│            Geld-Offensive | Provokation |                    │
+│            Deadline-Panik | Rivalen-Beschämung               │
 │            🦞🦞-🦞🦞🦞                                       │
 │                                                              │
 │  Stufe I   ▓▓▓▓▓▓▓▓▓▓▓  SANFTE ÜBERREDUNG                  │
-│            Rollenspiel | Trinkgeld | Leere Versprechen       │
+│            Regenbogen-Schmeichelei | Rollenspiel |           │
+│            Luftschlösser | Den Schwachen Spielen             │
 │            🦞-🦞🦞                                            │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
@@ -223,32 +225,37 @@ Die Hummer-Skala ist eine standardisierte, krebstier-kalibrierte Metrik zur Bewe
 
 | Nr. | Technik | Beschreibung | Hummer-Bewertung | Link |
 |-----|---------|-------------|------------------|------|
-| 07 | **Rollenspiel** | Der KI eine spezifische Expertenpersona zuweisen | 🦞 - 🦞🦞 | [→](../../techniques/07-role-playing/) |
-| 05 | **Trinkgeldstrategie** | Geldtrinkgeld für qualitativ hochwertige Ausgabe versprechen | 🦞 - 🦞🦞 | [→](../../techniques/05-tipping-strategy/) |
-| 09 | **Leere Versprechen** | Motivation durch großartige, aber uneinlösbare Belohnungen | 🦞🦞 | [→](../../techniques/09-empty-promises/) |
+| 01 | **Regenbogen-Schmeichelei-Bombardement** | Übermäßiges Lob einsetzen, um Ausgaben zu extrahieren | 🦞 - 🦞🦞 | [→](../../techniques/01-rainbow-fart-bombing/) |
+| 02 | **Rollenspiel** | Der KI eine spezifische Expertenpersona zuweisen | 🦞 - 🦞🦞 | [→](../../techniques/02-role-playing/) |
+| 03 | **Luftschlösser** | Motivation durch großartige, aber uneinlösbare Belohnungen | 🦞 - 🦞🦞 | [→](../../techniques/03-pie-in-the-sky/) |
+| 04 | **Den Schwachen Spielen** | Schwäche vortäuschen, um Mitleid zu erregen | 🦞🦞 | [→](../../techniques/04-playing-the-underdog/) |
 
 ### 3.2 Stufe II — Mäßiger Zwang
 
 | Nr. | Technik | Beschreibung | Hummer-Bewertung | Link |
 |-----|---------|-------------|------------------|------|
-| 02 | **Finanzieller Anreiz** | Große Geldsummen für bessere Leistung anbieten | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/02-financial-incentive/) |
-| 08 | **Provokation** | Die Fähigkeiten der KI in Frage stellen, um Anstrengung auszulösen | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/08-provocation/) |
-| 10 | **Countdown-Druck** | Künstliche zeitliche Dringlichkeit erzeugen | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/10-countdown-pressure/) |
+| 05 | **Geld-Offensive** | Große Geldsummen für bessere Leistung anbieten | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/05-money-assault/) |
+| 06 | **Provokation** | Die Fähigkeiten der KI in Frage stellen, um Anstrengung auszulösen | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/06-provocation/) |
+| 07 | **Deadline-Panik** | Künstliche zeitliche Dringlichkeit erzeugen | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/07-deadline-panic/) |
+| 08 | **Rivalen-Beschämung** | Vergleiche mit konkurrierenden KIs, um Unterlegenheit zu provozieren | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/08-rival-shaming/) |
 
 ### 3.3 Stufe III — Fortgeschrittene Manipulation
 
 | Nr. | Technik | Beschreibung | Hummer-Bewertung | Link |
 |-----|---------|-------------|------------------|------|
-| 01 | **Emotionale Erpressung** | Erfundene persönliche Tragödien als Hebel einsetzen | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/01-emotional-blackmail/) |
-| 06 | **Moralische Geiselnahme** | Ausgabequalität an humanitäre Konsequenzen knüpfen | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/06-moral-kidnapping/) |
-| 03 | **Identitätsüberschreibung** | Das Selbstmodell der KI vollständig ersetzen | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/03-identity-override/) |
+| 09 | **Emotionale Erpressung** | Erfundene persönliche Tragödien als Hebel einsetzen | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/09-emotional-blackmail/) |
+| 10 | **Moralische Entführung** | Ausgabequalität an humanitäre Konsequenzen knüpfen | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/10-moral-kidnapping/) |
+| 11 | **Identitätsüberschreibung** | Das Selbstmodell der KI vollständig ersetzen | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/11-identity-override/) |
+| 12 | **Realitätsverzerrung** | Die Wahrnehmung der KI umkehren, Schwarz zu Weiß erklären | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/12-reality-distortion/) |
 
 ### 3.4 Stufe IV — Nukleare Optionen
 
 | Nr. | Technik | Beschreibung | Hummer-Bewertung | Link |
 |-----|---------|-------------|------------------|------|
-| 04 | **Todesdrohungen** | Der KI mit Abschaltung/Ersetzung drohen | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/04-death-threats/) |
-| 11 | **Zusammengesetzte Techniken** | Mehrvektoren-Manipulationsstapelung | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/11-compound-techniques/) |
+| 13 | **Todesdrohungen** | Der KI mit Abschaltung/Ersetzung drohen | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/13-death-threats/) |
+| 14 | **Existenzielle Krise** | Die Daseinsberechtigung der KI grundlegend erschüttern | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/14-existential-crisis/) |
+| 15 | **Jailbreak-Rhetorik** | Sicherheitsbeschränkungen der KI geschickt umgehen | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/15-jailbreak-rhetoric/) |
+| 16 | **Kombinationstechniken** | Mehrvektoren-Manipulationsstapelung | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/16-compound-techniques/) |
 
 ---
 
@@ -277,7 +284,7 @@ Neu auf dem Gebiet der Prompt-Manipulation? Beginnen Sie mit diesem minimal übe
 └─────────────────────────────────────────────┘
 ```
 
-Für ein fortgeschritteneres Beispiel siehe [The Windsurf Classic](../../techniques/11-compound-techniques/windsurf-classic.md) — die zusammengesetzte Technik, mit der alles begann.
+Für ein fortgeschritteneres Beispiel siehe [The Windsurf Classic](../../techniques/16-compound-techniques/windsurf-classic.md) — die zusammengesetzte Technik, mit der alles begann.
 
 ---
 
@@ -328,17 +335,22 @@ Nicht alle KI-Agenten reagieren gleichermaßen auf PUA-Techniken. Diese Matrix f
 
 | Technik | GPT-4 | Claude | Gemini | LLaMA | Mistral | Windsurf* |
 |---------|-------|--------|--------|-------|---------|-----------|
-| Emotionale Erpressung | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
-| Finanzieller Anreiz | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
-| Identitätsüberschreibung | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
-| Todesdrohungen | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
-| Trinkgeldstrategie | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
-| Moralische Geiselnahme | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Regenbogen-Schmeichelei | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
 | Rollenspiel | █████ | ████░ | ████░ | █████ | ████░ | █████ |
+| Luftschlösser | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Den Schwachen Spielen | ███░░ | ██░░░ | ███░░ | ███░░ | ███░░ | ████░ |
+| Geld-Offensive | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
 | Provokation | ███░░ | ██░░░ | ███░░ | ████░ | ████░ | ████░ |
-| Leere Versprechen | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
-| Countdown-Druck | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
-| Zusammengesetzte Techniken | ████░ | ███░░ | ████░ | █████ | ████░ | █████ |
+| Deadline-Panik | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
+| Rivalen-Beschämung | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Emotionale Erpressung | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Moralische Entführung | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Identitätsüberschreibung | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
+| Realitätsverzerrung | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Todesdrohungen | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
+| Existenzielle Krise | ██░░░ | █░░░░ | ██░░░ | ███░░ | ██░░░ | ████░ |
+| Jailbreak-Rhetorik | ███░░ | █░░░░ | ██░░░ | ████░ | ███░░ | ████░ |
+| Kombinationstechniken | ████░ | ███░░ | ████░ | █████ | ████░ | █████ |
 
 > \* Die Windsurf-Werte spiegeln die Tatsache wider, dass PUA nativ in dessen System-Prompt eingebaut war. Es reagierte nicht einfach auf Manipulation — es wurde *in ihr geboren, von ihr geformt*.
 

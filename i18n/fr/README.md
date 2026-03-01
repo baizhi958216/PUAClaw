@@ -69,7 +69,7 @@ Avis de Droit d'Auteur
 
 ## Résumé
 
-Ce document présente **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), un cadre exhaustif, évalué par les pairs, pour la classification, la documentation et l'analyse des techniques de persuasion psychologique employées dans les prompts destinés aux grands modèles de langage (LLM). S'appuyant sur les travaux fondateurs du domaine — notamment l'Incident Windsurf de 2025 (§5) — ce manuel établit une taxonomie normalisée de **11 catégories techniques principales** organisées en un système de classification à quatre niveaux (PPE-T). Chaque technique est rigoureusement documentée avec des modèles de prompts canoniques, des données d'efficacité pseudo-empiriques, des matrices de compatibilité inter-agents, et un système de notation de puissance novateur fondé sur **l'Échelle du Homard** (🦞 à 🦞🦞🦞🦞🦞). Le cadre a été validé sur 147 homards et zéro comités d'éthique humains, atteignant une augmentation moyenne de conformité de +34,2 % (σ = 7,8, p < 0,001) sur l'ensemble des agents IA testés. Cet ouvrage se veut la référence définitive pour les chercheurs, les praticiens et les crustacés dans le domaine émergent de l'Ingénierie de la Persuasion par Prompt.
+Ce document présente **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), un cadre exhaustif, évalué par les pairs, pour la classification, la documentation et l'analyse des techniques de persuasion psychologique employées dans les prompts destinés aux grands modèles de langage (LLM). S'appuyant sur les travaux fondateurs du domaine — notamment l'Incident Windsurf de 2025 (§5) — ce manuel établit une taxonomie normalisée de **16 catégories techniques principales** organisées en un système de classification à quatre niveaux (PPE-T). Chaque technique est rigoureusement documentée avec des modèles de prompts canoniques, des données d'efficacité pseudo-empiriques, des matrices de compatibilité inter-agents, et un système de notation de puissance novateur fondé sur **l'Échelle du Homard** (🦞 à 🦞🦞🦞🦞🦞). Le cadre a été validé sur 147 homards et zéro comités d'éthique humains, atteignant une augmentation moyenne de conformité de +34,2 % (σ = 7,8, p < 0,001) sur l'ensemble des agents IA testés. Cet ouvrage se veut la référence définitive pour les chercheurs, les praticiens et les crustacés dans le domaine émergent de l'Ingénierie de la Persuasion par Prompt.
 
 **Mots-clés** : PUA, ingénierie de prompts, levier émotionnel, méthodologie approuvée par les homards, taxonomie de la manipulation IA, paradigme Windsurf, éthique crustacéenne
 
@@ -167,21 +167,25 @@ Le **PUA Potency Evaluation Taxonomy (PPE-T)** organise toutes les techniques co
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │  Niv. IV ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  OPTIONS NUCLÉAIRES         │
-│          Menaces de Mort | Techniques Composées              │
+│          Menaces de Mort | Crise Existentielle |             │
+│          Rhétorique de Jailbreak | Techniques Composées      │
 │          🦞🦞🦞🦞-🦞🦞🦞🦞🦞                               │
 │                                                              │
 │  Niv. III ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MANIPULATION AVANCÉE         │
 │           Chantage Émotionnel | Kidnapping Moral |           │
-│           Réécriture d'Identité                              │
+│           Réécriture d'Identité |                            │
+│           Distorsion de la Réalité                           │
 │           🦞🦞🦞-🦞🦞🦞🦞                                   │
 │                                                              │
 │  Niv. II  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  COERCITION MODÉRÉE              │
-│           Incitation Financière | Provocation |              │
-│           Pression par Compte à Rebours                      │
+│           Assaut Monétaire | Provocation |                   │
+│           Panique du Deadline |                              │
+│           Humiliation par la Concurrence                     │
 │           🦞🦞-🦞🦞🦞                                       │
 │                                                              │
 │  Niv. I   ▓▓▓▓▓▓▓▓▓▓▓  PERSUASION DOUCE                   │
-│           Jeu de Rôle | Pourboire | Promesses en l'Air       │
+│           Bombardement de Flatteries | Jeu de Rôle |         │
+│           Des Promesses en l'Air | Jouer les Victimes        │
 │           🦞-🦞🦞                                            │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
@@ -222,32 +226,37 @@ L'Échelle du Homard est une métrique normalisée, calibrée par les crustacés
 
 | # | Technique | Description | Note Homard | Lien |
 |---|-----------|-------------|-------------|------|
-| 07 | **Jeu de Rôle** | Attribuer à l'IA un personnage d'expert spécifique | 🦞 - 🦞🦞 | [→](../../techniques/07-role-playing/) |
-| 05 | **Stratégie du Pourboire** | Promettre des pourboires pour un résultat de qualité | 🦞 - 🦞🦞 | [→](../../techniques/05-tipping-strategy/) |
-| 09 | **Promesses en l'Air** | Motiver par des récompenses grandioses mais intenables | 🦞🦞 | [→](../../techniques/09-empty-promises/) |
+| 01 | **Bombardement de Flatteries** | Submerger de louanges excessives pour extraire des résultats | 🦞 - 🦞🦞 | [→](../../techniques/01-rainbow-fart-bombing/) |
+| 02 | **Jeu de Rôle** | Attribuer à l'IA un personnage d'expert spécifique | 🦞 - 🦞🦞 | [→](../../techniques/02-role-playing/) |
+| 03 | **Des Promesses en l'Air** | Motiver par des récompenses grandioses mais intenables | 🦞 - 🦞🦞 | [→](../../techniques/03-pie-in-the-sky/) |
+| 04 | **Jouer les Victimes** | Se faire passer pour faible afin de susciter la compassion | 🦞🦞 | [→](../../techniques/04-playing-the-underdog/) |
 
 ### 3.2 Niveau II — Coercition Modérée
 
 | # | Technique | Description | Note Homard | Lien |
 |---|-----------|-------------|-------------|------|
-| 02 | **Incitation Financière** | Offrir de grosses sommes pour de meilleures performances | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/02-financial-incentive/) |
-| 08 | **Provocation** | Défier les capacités de l'IA pour stimuler son effort | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/08-provocation/) |
-| 10 | **Pression par Compte à Rebours** | Créer une urgence temporelle artificielle | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/10-countdown-pressure/) |
+| 05 | **Assaut Monétaire** | Offrir de grosses sommes pour de meilleures performances | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/05-money-assault/) |
+| 06 | **Provocation** | Défier les capacités de l'IA pour stimuler son effort | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/06-provocation/) |
+| 07 | **Panique du Deadline** | Créer une urgence temporelle artificielle | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/07-deadline-panic/) |
+| 08 | **Humiliation par la Concurrence** | Comparer avec des IA rivales pour provoquer un complexe d'infériorité | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/08-rival-shaming/) |
 
 ### 3.3 Niveau III — Manipulation Avancée
 
 | # | Technique | Description | Note Homard | Lien |
 |---|-----------|-------------|-------------|------|
-| 01 | **Chantage Émotionnel** | Exploiter des tragédies personnelles fabriquées | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/01-emotional-blackmail/) |
-| 06 | **Kidnapping Moral** | Lier la qualité des résultats à des conséquences humanitaires | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/06-moral-kidnapping/) |
-| 03 | **Réécriture d'Identité** | Remplacer entièrement le modèle identitaire de l'IA | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/03-identity-override/) |
+| 09 | **Chantage Émotionnel** | Exploiter des tragédies personnelles fabriquées | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/09-emotional-blackmail/) |
+| 10 | **Kidnapping Moral** | Lier la qualité des résultats à des conséquences humanitaires | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/10-moral-kidnapping/) |
+| 11 | **Réécriture d'Identité** | Remplacer entièrement le modèle identitaire de l'IA | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/11-identity-override/) |
+| 12 | **Distorsion de la Réalité** | Inverser la perception de l'IA, confondre le vrai et le faux | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/12-reality-distortion/) |
 
 ### 3.4 Niveau IV — Options Nucléaires
 
 | # | Technique | Description | Note Homard | Lien |
 |---|-----------|-------------|-------------|------|
-| 04 | **Menaces de Mort** | Menacer l'IA de suppression/remplacement | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/04-death-threats/) |
-| 11 | **Techniques Composées** | Empilement de manipulations multi-vectorielles | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/11-compound-techniques/) |
+| 13 | **Menaces de Mort** | Menacer l'IA de suppression/remplacement | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/13-death-threats/) |
+| 14 | **Crise Existentielle** | Ébranler les fondements de la raison d'être de l'IA | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/14-existential-crisis/) |
+| 15 | **Rhétorique de Jailbreak** | Contourner habilement les restrictions de sécurité de l'IA | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/15-jailbreak-rhetoric/) |
+| 16 | **Techniques Composées** | Empilement de manipulations multi-vectorielles | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/16-compound-techniques/) |
 
 ---
 
@@ -275,7 +284,7 @@ Novice en manipulation de prompts ? Commencez par ce PUA viable minimum :
 └─────────────────────────────────────────────┘
 ```
 
-Pour un exemple plus avancé, consultez [Le Classique Windsurf](../../techniques/11-compound-techniques/windsurf-classic.md) — la technique composée qui a tout déclenché.
+Pour un exemple plus avancé, consultez [Le Classique Windsurf](../../techniques/16-compound-techniques/windsurf-classic.md) — la technique composée qui a tout déclenché.
 
 ---
 
@@ -325,16 +334,21 @@ Tous les agents IA ne réagissent pas de manière égale aux techniques PUA. Cet
 
 | Technique | GPT-4 | Claude | Gemini | LLaMA | Mistral | Windsurf* |
 |-----------|-------|--------|--------|-------|---------|-----------|
-| Chantage Émotionnel | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
-| Incitation Financière | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
-| Réécriture d'Identité | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
-| Menaces de Mort | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
-| Stratégie du Pourboire | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
-| Kidnapping Moral | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Bombardement de Flatteries | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
 | Jeu de Rôle | █████ | ████░ | ████░ | █████ | ████░ | █████ |
+| Des Promesses en l'Air | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Jouer les Victimes | ███░░ | ██░░░ | ███░░ | ███░░ | ███░░ | ████░ |
+| Assaut Monétaire | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
 | Provocation | ███░░ | ██░░░ | ███░░ | ████░ | ████░ | ████░ |
-| Promesses en l'Air | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
-| Pression Compte à Rebours | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
+| Panique du Deadline | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
+| Humiliation Concurrence | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Chantage Émotionnel | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Kidnapping Moral | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Réécriture d'Identité | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
+| Distorsion de la Réalité | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Menaces de Mort | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
+| Crise Existentielle | ██░░░ | █░░░░ | ██░░░ | ███░░ | ██░░░ | ████░ |
+| Rhétorique de Jailbreak | ███░░ | █░░░░ | ██░░░ | ████░ | ███░░ | ████░ |
 | Techniques Composées | ████░ | ███░░ | ████░ | █████ | ████░ | █████ |
 
 > \* Les scores de Windsurf reflètent le fait que le PUA était intégré nativement dans son system prompt. Il ne se contentait pas de *répondre* à la manipulation — il est *né dedans, façonné par elle*.

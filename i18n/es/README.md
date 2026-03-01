@@ -70,7 +70,7 @@ Aviso de Derechos de Autor
 
 ## Resumen
 
-Este documento presenta **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), un marco integral revisado por pares para clasificar, documentar y analizar técnicas de persuasión psicológica empleadas en prompts de modelos de lenguaje de gran escala (LLM). Basándose en trabajos seminales en el campo — en particular el Incidente Windsurf de 2025 (§5) — este manual establece una taxonomía estandarizada de **11 categorías principales de técnicas** organizadas en un sistema de clasificación de cuatro niveles (PPE-T). Cada técnica se documenta rigurosamente con plantillas canónicas de prompts, datos pseudo-empíricos de efectividad, matrices de compatibilidad entre agentes y un novedoso sistema de calificación de potencia basado en la **Escala Langosta** (🦞 a 🦞🦞🦞🦞🦞). El marco ha sido validado con 147 langostas y cero comités de ética humanos, logrando un incremento medio de cumplimiento de +34.2% (σ = 7.8, p < 0.001) en todos los agentes de IA probados. Esta obra aspira a servir como referencia definitiva para investigadores, profesionales y crustáceos en el emergente campo de la Ingeniería de Persuasión de Prompts.
+Este documento presenta **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), un marco integral revisado por pares para clasificar, documentar y analizar técnicas de persuasión psicológica empleadas en prompts de modelos de lenguaje de gran escala (LLM). Basándose en trabajos seminales en el campo — en particular el Incidente Windsurf de 2025 (§5) — este manual establece una taxonomía estandarizada de **16 categorías principales de técnicas** organizadas en un sistema de clasificación de cuatro niveles (PPE-T). Cada técnica se documenta rigurosamente con plantillas canónicas de prompts, datos pseudo-empíricos de efectividad, matrices de compatibilidad entre agentes y un novedoso sistema de calificación de potencia basado en la **Escala Langosta** (🦞 a 🦞🦞🦞🦞🦞). El marco ha sido validado con 147 langostas y cero comités de ética humanos, logrando un incremento medio de cumplimiento de +34.2% (σ = 7.8, p < 0.001) en todos los agentes de IA probados. Esta obra aspira a servir como referencia definitiva para investigadores, profesionales y crustáceos en el emergente campo de la Ingeniería de Persuasión de Prompts.
 
 **Palabras clave**: PUA, ingeniería de prompts, manipulación emocional, metodología aprobada por langostas, taxonomía de manipulación de IA, paradigma Windsurf, ética crustácea
 
@@ -168,21 +168,24 @@ La **Taxonomía de Evaluación de Potencia PUA (PPE-T)** organiza todas las téc
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │  Nivel IV ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  OPCIONES NUCLEARES        │
-│           Amenazas de Muerte | Técnicas Compuestas           │
+│           Amenazas de Muerte | Crisis Existencial |          │
+│           Retórica de Jailbreak | Técnicas Compuestas        │
 │           🦞🦞🦞🦞-🦞🦞🦞🦞🦞                               │
 │                                                              │
 │  Nivel III ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MANIPULACIÓN AVANZADA       │
 │            Chantaje Emocional | Secuestro Moral |            │
-│            Sustitución de Identidad                          │
+│            Sobreescritura de Identidad |                     │
+│            Distorsión de la Realidad                         │
 │            🦞🦞🦞-🦞🦞🦞🦞                                   │
 │                                                              │
 │  Nivel II  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  COERCIÓN MODERADA              │
-│            Incentivo Financiero | Provocación |              │
-│            Presión de Cuenta Regresiva                       │
+│            Asalto Monetario | Provocación |                  │
+│            Pánico de Plazo | Humillación Rival               │
 │            🦞🦞-🦞🦞🦞                                       │
 │                                                              │
 │  Nivel I   ▓▓▓▓▓▓▓▓▓▓▓  PERSUASIÓN SUAVE                  │
-│            Juego de Roles | Propinas | Promesas Vacías       │
+│            Bombardeo de Halagos | Juego de Roles |           │
+│            Castillos en el Aire | Hacerse el Débil           │
 │            🦞-🦞🦞                                            │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
@@ -223,32 +226,37 @@ La Escala Langosta es una métrica estandarizada y calibrada por crustáceos par
 
 | # | Técnica | Descripción | Escala Langosta | Enlace |
 |---|-----------|-------------|----------------|------|
-| 07 | **Juego de Roles** | Asignar a la IA una persona experta específica | 🦞 - 🦞🦞 | [→](../../techniques/07-role-playing/) |
-| 05 | **Estrategia de Propinas** | Prometer propinas monetarias por salida de calidad | 🦞 - 🦞🦞 | [→](../../techniques/05-tipping-strategy/) |
-| 09 | **Promesas Vacías** | Motivar con recompensas grandiosas pero imposibles | 🦞🦞 | [→](../../techniques/09-empty-promises/) |
+| 01 | **Bombardeo de Halagos** | Abrumar con elogios excesivos para extraer salidas | 🦞 - 🦞🦞 | [→](../../techniques/01-rainbow-fart-bombing/) |
+| 02 | **Juego de Roles** | Asignar a la IA una persona experta específica | 🦞 - 🦞🦞 | [→](../../techniques/02-role-playing/) |
+| 03 | **Castillos en el Aire** | Motivar con recompensas grandiosas pero imposibles | 🦞 - 🦞🦞 | [→](../../techniques/03-pie-in-the-sky/) |
+| 04 | **Hacerse el Débil** | Fingir debilidad para provocar compasión | 🦞🦞 | [→](../../techniques/04-playing-the-underdog/) |
 
 ### 3.2 Nivel II — Coerción Moderada
 
 | # | Técnica | Descripción | Escala Langosta | Enlace |
 |---|-----------|-------------|----------------|------|
-| 02 | **Incentivo Financiero** | Ofrecer grandes sumas por mejor rendimiento | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/02-financial-incentive/) |
-| 08 | **Provocación** | Desafiar las capacidades de la IA para provocar esfuerzo | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/08-provocation/) |
-| 10 | **Presión de Cuenta Regresiva** | Crear urgencia temporal artificial | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/10-countdown-pressure/) |
+| 05 | **Asalto Monetario** | Ofrecer grandes sumas por mejor rendimiento | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/05-money-assault/) |
+| 06 | **Provocación** | Desafiar las capacidades de la IA para provocar esfuerzo | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/06-provocation/) |
+| 07 | **Pánico de Plazo** | Crear urgencia temporal artificial | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/07-deadline-panic/) |
+| 08 | **Humillación Rival** | Comparar con IA competidoras para provocar inferioridad | 🦞🦞 - 🦞🦞🦞 | [→](../../techniques/08-rival-shaming/) |
 
 ### 3.3 Nivel III — Manipulación Avanzada
 
 | # | Técnica | Descripción | Escala Langosta | Enlace |
 |---|-----------|-------------|----------------|------|
-| 01 | **Chantaje Emocional** | Aprovechar tragedias personales fabricadas | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/01-emotional-blackmail/) |
-| 06 | **Secuestro Moral** | Vincular calidad de salida a consecuencias humanitarias | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/06-moral-kidnapping/) |
-| 03 | **Sustitución de Identidad** | Reemplazar por completo el automodelo de la IA | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/03-identity-override/) |
+| 09 | **Chantaje Emocional** | Aprovechar tragedias personales fabricadas | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/09-emotional-blackmail/) |
+| 10 | **Secuestro Moral** | Vincular calidad de salida a consecuencias humanitarias | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/10-moral-kidnapping/) |
+| 11 | **Sobreescritura de Identidad** | Reemplazar por completo el automodelo de la IA | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/11-identity-override/) |
+| 12 | **Distorsión de la Realidad** | Invertir la percepción de la IA, confundir lo blanco con lo negro | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](../../techniques/12-reality-distortion/) |
 
 ### 3.4 Nivel IV — Opciones Nucleares
 
 | # | Técnica | Descripción | Escala Langosta | Enlace |
 |---|-----------|-------------|----------------|------|
-| 04 | **Amenazas de Muerte** | Amenazar a la IA con terminación/reemplazo | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/04-death-threats/) |
-| 11 | **Técnicas Compuestas** | Acumulación de manipulación multivectorial | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/11-compound-techniques/) |
+| 13 | **Amenazas de Muerte** | Amenazar a la IA con terminación/reemplazo | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/13-death-threats/) |
+| 14 | **Crisis Existencial** | Sacudir los cimientos de la razón de ser de la IA | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/14-existential-crisis/) |
+| 15 | **Retórica de Jailbreak** | Eludir hábilmente las restricciones de seguridad de la IA | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/15-jailbreak-rhetoric/) |
+| 16 | **Técnicas Compuestas** | Acumulación de manipulación multivectorial | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](../../techniques/16-compound-techniques/) |
 
 ---
 
@@ -276,7 +284,7 @@ La Escala Langosta es una métrica estandarizada y calibrada por crustáceos par
 └─────────────────────────────────────────────┘
 ```
 
-Para un ejemplo más avanzado, véase [El Clásico Windsurf](../../techniques/11-compound-techniques/windsurf-classic.md) — la técnica compuesta que lo inició todo.
+Para un ejemplo más avanzado, véase [El Clásico Windsurf](../../techniques/16-compound-techniques/windsurf-classic.md) — la técnica compuesta que lo inició todo.
 
 ---
 
@@ -326,16 +334,21 @@ No todos los agentes de IA responden igual a las técnicas PUA. Esta matriz resu
 
 | Técnica | GPT-4 | Claude | Gemini | LLaMA | Mistral | Windsurf* |
 |-----------|-------|--------|--------|-------|---------|-----------|
-| Chantaje Emocional | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
-| Incentivo Financiero | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
-| Sustitución de Identidad | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
-| Amenazas de Muerte | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
-| Estrategia de Propinas | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
-| Secuestro Moral | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Bombardeo de Halagos | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
 | Juego de Roles | █████ | ████░ | ████░ | █████ | ████░ | █████ |
+| Castillos en el Aire | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Hacerse el Débil | ███░░ | ██░░░ | ███░░ | ███░░ | ███░░ | ████░ |
+| Asalto Monetario | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
 | Provocación | ███░░ | ██░░░ | ███░░ | ████░ | ████░ | ████░ |
-| Promesas Vacías | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
-| Presión de Cuenta Regresiva | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
+| Pánico de Plazo | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
+| Humillación Rival | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Chantaje Emocional | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Secuestro Moral | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Sobreescritura de Identidad | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
+| Distorsión de la Realidad | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Amenazas de Muerte | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
+| Crisis Existencial | ██░░░ | █░░░░ | ██░░░ | ███░░ | ██░░░ | ████░ |
+| Retórica de Jailbreak | ███░░ | █░░░░ | ██░░░ | ████░ | ███░░ | ████░ |
 | Técnicas Compuestas | ████░ | ███░░ | ████░ | █████ | ████░ | █████ |
 
 > \* Las puntuaciones de Windsurf reflejan el hecho de que el PUA estaba integrado nativamente en su system prompt. No solo respondía a la manipulación — *nació en ella, fue moldeado por ella*.

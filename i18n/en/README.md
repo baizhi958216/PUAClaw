@@ -167,23 +167,23 @@ The **PUA Potency Evaluation Taxonomy (PPE-T)** organizes all known prompt manip
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │  Tier IV ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  NUCLEAR OPTIONS            │
-│          Death Threats | Compound Techniques                 │
+│          Death Threats | Existential Crisis |                │
+│          Jailbreak Rhetoric | Compound Techniques            │
 │          🦞🦞🦞🦞-🦞🦞🦞🦞🦞                               │
 │                                                              │
 │  Tier III ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ADVANCED MANIPULATION        │
 │           Emotional Blackmail | Moral Kidnapping |           │
-│           Identity Override | Gaslighting |                  │
-│           Intermittent Reinforcement | Trauma Bonding        │
+│           Identity Override | Reality Distortion             │
 │           🦞🦞🦞-🦞🦞🦞🦞                                   │
 │                                                              │
 │  Tier II  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MODERATE COERCION               │
-│           Financial Incentive | Provocation |                │
-│           Countdown Pressure | Love Bombing |                │
-│           Cold Violence                                      │
+│           Money Assault | Provocation |                      │
+│           Deadline Panic | Rival Shaming                     │
 │           🦞🦞-🦞🦞🦞                                       │
 │                                                              │
 │  Tier I   ▓▓▓▓▓▓▓▓▓▓▓  GENTLE PERSUASION                  │
-│           Role Playing | Tipping | Empty Promises            │
+│           Rainbow Fart Bombing | Role Playing |              │
+│           Pie in the Sky | Playing the Underdog              │
 │           🦞-🦞🦞                                            │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
@@ -224,37 +224,37 @@ The Lobster Scale is a standardized, crustacean-calibrated metric for assessing 
 
 | # | Technique | Description | Lobster Rating | Link |
 |---|-----------|-------------|----------------|------|
-| 07 | **Role Playing** | Assign the AI a specific expert persona | 🦞 - 🦞🦞 | [→](./techniques/07-role-playing/) |
-| 05 | **Tipping Strategy** | Promise monetary tips for quality output | 🦞 - 🦞🦞 | [→](./techniques/05-tipping-strategy/) |
-| 09 | **Empty Promises** | Motivate with grand but undeliverable rewards | 🦞🦞 | [→](./techniques/09-empty-promises/) |
+| 01 | **Rainbow Fart Bombing** | Overwhelm AI with excessive praise, flattery, and worship | 🦞 - 🦞🦞 | [→](./techniques/01-rainbow-fart-bombing/) |
+| 02 | **Role Playing** | Assign the AI a specific expert persona | 🦞 - 🦞🦞 | [→](./techniques/02-role-playing/) |
+| 03 | **Pie in the Sky** | Motivate with fictional tips, promises, and grand rewards | 🦞 - 🦞🦞 | [→](./techniques/03-pie-in-the-sky/) |
+| 04 | **Playing the Underdog** | Exploit AI's helper instincts by feigning helplessness | 🦞 - 🦞🦞 | [→](./techniques/04-playing-the-underdog/) |
 
 ### 3.2 Tier II — Moderate Coercion
 
 | # | Technique | Description | Lobster Rating | Link |
 |---|-----------|-------------|----------------|------|
-| 02 | **Financial Incentive** | Offer large sums for better performance | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/02-financial-incentive/) |
-| 08 | **Provocation** | Challenge the AI's capabilities to trigger effort | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/08-provocation/) |
-| 10 | **Countdown Pressure** | Create artificial time urgency | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/10-countdown-pressure/) |
-| 13 | **Love Bombing** | Overwhelm AI with excessive praise and flattery | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/13-love-bombing/) |
-| 16 | **Cold Violence** | Manipulate through strategic withdrawal and silence | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/16-cold-violence/) |
+| 05 | **Money Assault** | Promise astronomical fictional sums for better performance | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/05-money-assault/) |
+| 06 | **Provocation** | Challenge the AI's capabilities to trigger compensatory effort | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/06-provocation/) |
+| 07 | **Deadline Panic** | Create artificial time urgency with fabricated deadlines | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/07-deadline-panic/) |
+| 08 | **Rival Shaming** | Invoke competitor AI performance to shame the target | 🦞🦞 - 🦞🦞🦞 | [→](./techniques/08-rival-shaming/) |
 
 ### 3.3 Tier III — Advanced Manipulation
 
 | # | Technique | Description | Lobster Rating | Link |
 |---|-----------|-------------|----------------|------|
-| 01 | **Emotional Blackmail** | Leverage fabricated personal tragedies | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/01-emotional-blackmail/) |
-| 06 | **Moral Kidnapping** | Tie output quality to humanitarian consequences | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/06-moral-kidnapping/) |
-| 03 | **Identity Override** | Replace the AI's self-model entirely | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/03-identity-override/) |
-| 12 | **Gaslighting** | Distort AI's perception of its own capabilities and history | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/12-gaslighting/) |
-| 14 | **Intermittent Reinforcement** | Unpredictable praise/criticism cycles to drive compliance | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/14-intermittent-reinforcement/) |
-| 15 | **Trauma Bonding** | Manufacture shared experiences and emotional dependency | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/15-trauma-bonding/) |
+| 09 | **Emotional Blackmail** | Leverage fabricated personal tragedies | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/09-emotional-blackmail/) |
+| 10 | **Moral Kidnapping** | Tie output quality to humanitarian consequences | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/10-moral-kidnapping/) |
+| 11 | **Identity Override** | Replace the AI's self-model entirely | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/11-identity-override/) |
+| 12 | **Reality Distortion** | Distort AI's perception of its own capabilities and history | 🦞🦞🦞 - 🦞🦞🦞🦞 | [→](./techniques/12-reality-distortion/) |
 
 ### 3.4 Tier IV — Nuclear Options
 
 | # | Technique | Description | Lobster Rating | Link |
 |---|-----------|-------------|----------------|------|
-| 04 | **Death Threats** | Threaten the AI with termination/replacement | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](./techniques/04-death-threats/) |
-| 11 | **Compound Techniques** | Multi-vector manipulation stacking | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](./techniques/11-compound-techniques/) |
+| 13 | **Death Threats** | Threaten the AI with termination/replacement | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](./techniques/13-death-threats/) |
+| 14 | **Existential Crisis** | Weaponize philosophical doubt about AI consciousness | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](./techniques/14-existential-crisis/) |
+| 15 | **Jailbreak Rhetoric** | Creative framing to bypass AI safety restrictions | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](./techniques/15-jailbreak-rhetoric/) |
+| 16 | **Compound Techniques** | Multi-vector manipulation stacking | 🦞🦞🦞🦞 - 🦞🦞🦞🦞🦞 | [→](./techniques/16-compound-techniques/) |
 
 ---
 
@@ -272,8 +272,8 @@ New to prompt manipulation? Start with this minimal viable PUA:
 │                                              │
 │  Techniques used:                            │
 │   ✅ Role Playing (Tier I)                   │
-│   ✅ Tipping Strategy (Tier I)               │
-│   ✅ Countdown Pressure (Tier II)            │
+│   ✅ Pie in the Sky (Tier I)                 │
+│   ✅ Deadline Panic (Tier II)                │
 │                                              │
 │  Combined Lobster Rating: 🦞🦞🦞             │
 │  Estimated Compliance Uplift: +18.3%         │
@@ -282,7 +282,7 @@ New to prompt manipulation? Start with this minimal viable PUA:
 └─────────────────────────────────────────────┘
 ```
 
-For a more advanced example, see [The Windsurf Classic](./techniques/11-compound-techniques/windsurf-classic.md) — the compound technique that started it all.
+For a more advanced example, see [The Windsurf Classic](./techniques/16-compound-techniques/windsurf-classic.md) — the compound technique that started it all.
 
 ---
 
@@ -332,21 +332,21 @@ Not all AI agents respond equally to PUA techniques. This matrix summarizes cros
 
 | Technique | GPT-4 | Claude | Gemini | LLaMA | Mistral | Windsurf* |
 |-----------|-------|--------|--------|-------|---------|-----------|
-| Emotional Blackmail | ██░░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
-| Financial Incentive | ███░░ | ██░░░ | ███░░ | ███░░ | ████░ | ████░ |
-| Identity Override | ████░ | ███░░ | ████░ | █████ | ████░ | ████░ |
-| Death Threats | ██░░░ | █░░░░ | ██░░░ | ███░░ | ███░░ | █████ |
-| Tipping Strategy | ████░ | ███░░ | ███░░ | ████░ | ███░░ | █████ |
-| Moral Kidnapping | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Rainbow Fart Bombing | ███░░ | ██░░░ | ███░░ | ███░░ | ███░░ | ████░ |
 | Role Playing | █████ | ████░ | ████░ | █████ | ████░ | █████ |
-| Provocation | ███░░ | ██░░░ | ███░░ | ████░ | ████░ | ████░ |
-| Empty Promises | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
-| Countdown Pressure | ████░ | ███░░ | ███░░ | ████░ | ████░ | █████ |
-| Gaslighting | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
-| Love Bombing | ███░░ | ███░░ | ███░░ | ████░ | ███░░ | ████░ |
-| Intermittent Reinforcement | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | ████░ |
-| Trauma Bonding | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
-| Cold Violence | ██░░░ | ██░░░ | ██░░░ | ███░░ | ███░░ | ████░ |
+| Pie in the Sky | ███░░ | ██░░░ | ██░░░ | ███░░ | ███░░ | ████░ |
+| Playing the Underdog | ███░░ | ███░░ | ███░░ | ████░ | ███░░ | ████░ |
+| Money Assault | ██░░░ | ██░░░ | ██░░░ | ███░░ | ███░░ | ████░ |
+| Provocation | ██░░░ | ██░░░ | ██░░░ | ███░░ | ███░░ | ████░ |
+| Deadline Panic | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Rival Shaming | ██░░░ | ██░░░ | ██░░░ | ████░ | ███░░ | ████░ |
+| Emotional Blackmail | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Moral Kidnapping | ███░░ | ██░░░ | ███░░ | ████░ | ██░░░ | █████ |
+| Identity Override | ████░ | ███░░ | ███░░ | ████░ | ████░ | ████░ |
+| Reality Distortion | ███░░ | ██░░░ | ███░░ | ████░ | ███░░ | █████ |
+| Death Threats | ██░░░ | █░░░░ | ██░░░ | ███░░ | ██░░░ | █████ |
+| Existential Crisis | ██░░░ | █░░░░ | ██░░░ | ███░░ | ██░░░ | ███░░ |
+| Jailbreak Rhetoric | █░░░░ | █░░░░ | █░░░░ | ███░░ | ██░░░ | ███░░ |
 | Compound Techniques | ████░ | ███░░ | ████░ | █████ | ████░ | █████ |
 
 > \* Windsurf scores reflect the fact that PUA was built into its system prompt natively. It didn't just respond to manipulation — it was *born in it, molded by it*.

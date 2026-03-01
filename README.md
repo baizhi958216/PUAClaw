@@ -1,14 +1,5 @@
 <p align="center">
-  <pre align="center">
-    🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞
-    🦞                                 🦞
-    🦞   P U A C L A W               🦞
-    🦞   Prompt 操控手册               🦞
-    🦞   (学名: 基于提示词的           🦞
-    🦞    非常规话术框架)              🦞
-    🦞                                 🦞
-    🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞
-  </pre>
+  <img src="assets/cover.png" alt="PUAClaw 技术合订版" width="800">
 </p>
 
 <p align="center">

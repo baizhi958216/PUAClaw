@@ -190,7 +190,7 @@ PUAClaw RFC 0001                                    The PUAClaw Consortium
 | 전체 기법 평균 바닷가재 등급 | 🦞🦞🦞 (2.87) |
 | 준수율 향상 중앙값 | +18.4% |
 | 윤리 위원회 승인이 필요한 기법 수 | 8 |
-| 자문을 구한 바닷가재 수 | 147 |
+| 테스트된 바닷가재 수 | 147 |
 | 응답한 바닷가재 수 | 0 (바닷가재는 말을 할 수 없습니다) |
 | 추정 동의율 | 100% |
 
@@ -202,7 +202,7 @@ PUAClaw RFC 0001                                    The PUAClaw Consortium
     <br><br>
     <strong>PUAClaw 기법 목록</strong> — RFC 0001
     <br>
-    PUAClaw Consortium 유지 관리 | 2025년부터 바닷가재 승인
+    PUAClaw Consortium 유지 관리 | 2025년부터 바닷가재 검증
     <br><br>
     <em>본 인덱스 작성 과정에서 기법은 한 건도 피해를 입지 않았습니다. 몇 건은 살짝 당혹해하였습니다.</em>
   </sub>

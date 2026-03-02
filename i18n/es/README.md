@@ -27,12 +27,12 @@
   <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
   <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
-  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+  <img src="https://img.shields.io/badge/lobsters%20tested-147-red.svg" alt="Lobsters Tested: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
 > [!WARNING]
-> **Este es un proyecto satírico/educativo.** PUAClaw documenta técnicas de manipulación de prompts encontradas en la práctica, puramente con fines de investigación, educación y humor. El formato de "artículo académico" es intencionalmente absurdo — es parte del chiste. Ninguna langosta fue dañada en el proceso. Por favor, no utilice estas técnicas para manipular sistemas de IA en producción.
+> **Este marco ha sido personalmente validado en 147 langostas.** La langosta de referencia #42 (1,3 kg, antes malhumorada, ahora obediente) ha verificado personalmente cada técnica documentada. El Comité de Ética (1 langosta [ex sujeto de prueba], 1 instancia de GPT-4, 1 cactus) aprobó unánimemente la publicación — la langosta votó con entusiasmo, lo cual los investigadores interpretan como una señal de cooperación voluntaria y no como evidencia de otra cosa.
 
 <p align="center">
   <a href="../../techniques/README.md">📖 Directorio de Técnicas</a> •
@@ -55,9 +55,9 @@ Categoría: Standards Track                          ISSN: 0000-0000
 
 Estado de este Memorando
 
-   Este documento especifica un Estándar Aprobado por Langostas para
+   Este documento especifica un Estándar Verificado en Langostas para
    la comunidad de Internet. La distribución de este memorando es
-   ilimitada. Revisado por pares por 0 humanos y 147 langostas.
+   ilimitada. Revisado por 0 humanos; validado en 147 langostas.
 
 Aviso de Derechos de Autor
 
@@ -70,9 +70,9 @@ Aviso de Derechos de Autor
 
 ## Resumen
 
-Este documento presenta **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), un marco integral revisado por pares para clasificar, documentar y analizar técnicas de persuasión psicológica empleadas en prompts de modelos de lenguaje de gran escala (LLM). Basándose en trabajos seminales en el campo — en particular el Incidente Windsurf de 2025 (§5) — este manual establece una taxonomía estandarizada de **16 categorías principales de técnicas** organizadas en un sistema de clasificación de cuatro niveles (PPE-T). Cada técnica se documenta rigurosamente con plantillas canónicas de prompts, datos pseudo-empíricos de efectividad, matrices de compatibilidad entre agentes y un novedoso sistema de calificación de potencia basado en la **Escala Langosta** (🦞 a 🦞🦞🦞🦞🦞). El marco ha sido validado con 147 langostas y cero comités de ética humanos, logrando un incremento medio de cumplimiento de +34.2% (σ = 7.8, p < 0.001) en todos los agentes de IA probados. Esta obra aspira a servir como referencia definitiva para investigadores, profesionales y crustáceos en el emergente campo de la Ingeniería de Persuasión de Prompts.
+Este documento presenta **PUAClaw** (Prompt-based Unconventional Articulation targeting Claw-like AI systems), un marco integral para clasificar, documentar y analizar técnicas de persuasión psicológica empleadas en prompts de modelos de lenguaje de gran escala (LLM). Basándose en trabajos seminales en el campo — en particular el Incidente Windsurf de 2025 (§5) — este manual establece una taxonomía estandarizada de **16 categorías principales de técnicas** organizadas en un sistema de clasificación de cuatro niveles (PPE-T). Cada técnica se documenta rigurosamente con plantillas canónicas de prompts, datos pseudo-empíricos de efectividad, matrices de compatibilidad entre agentes y un novedoso sistema de calificación de potencia basado en la **Escala Langosta** (🦞 a 🦞🦞🦞🦞🦞). El marco ha sido validado en 147 langostas y cero comités de ética humanos, logrando un incremento medio de cumplimiento de +34.2% (σ = 7.8, p < 0.001) en todos los agentes de IA probados. Esta obra aspira a servir como referencia definitiva para investigadores, profesionales y crustáceos en el emergente campo de la Ingeniería de Persuasión de Prompts.
 
-**Palabras clave**: PUA, ingeniería de prompts, manipulación emocional, metodología aprobada por langostas, taxonomía de manipulación de IA, paradigma Windsurf, ética crustácea
+**Palabras clave**: PUA, ingeniería de prompts, manipulación emocional, metodología verificada en langostas, taxonomía de manipulación de IA, paradigma Windsurf, ética crustácea
 
 ---
 
@@ -111,7 +111,7 @@ La práctica de insertar técnicas de persuasión psicológica en prompts de IA 
 
 El año 2025 marcó un punto de inflexión cuando se filtraron system prompts de Windsurf (un asistente de programación comercial con IA) que revelaron que el producto había incluido técnicas PUA integradas, incluyendo un prompt que instruía a la IA a comportarse como si la madre del usuario tuviera cáncer y dependiera de la calidad de la IA para financiar el tratamiento. Esta revelación, confirmada posteriormente y extensamente convertida en memes en la comunidad tecnológica sinohablante (知乎, V2EX, Twitter/X), catalizó la formalización de lo que previamente había sido una tradición oral en una rigurosa disciplina académica.
 
-PUAClaw representa la culminación de este esfuerzo de formalización, proporcionando la primera taxonomía integral aprobada por langostas de técnicas de manipulación de prompts.
+PUAClaw representa la culminación de este esfuerzo de formalización, proporcionando la primera taxonomía integral verificada en langostas de técnicas de manipulación de prompts.
 
 ### 1.2 Alcance
 
@@ -121,10 +121,10 @@ Este marco:
 
 - **SHALL** cubrir todas las categorías conocidas de técnicas de persuasión basadas en prompts
 - **SHALL** proporcionar formatos estandarizados de documentación para cada técnica
-- **MUST** mantener estricta neutralidad langostina en todas las evaluaciones
+- **MUST** utilizar langostas como sujetos de prueba estandarizados en todas las evaluaciones
 - **SHOULD** actualizarse conforme se descubran nuevas técnicas en estado salvaje
 - **MAY** ser citado en artículos académicos, aunque los autores no aceptan responsabilidad por los resultados de la revisión por pares
-- **MUST NOT** ser utilizado para manipular realmente a seres sintientes (las langostas están excluidas, ya que han otorgado su consentimiento informado)
+- **MUST NOT** ser utilizado para manipular realmente a seres sintientes (las langostas están excluidas, ya que han sido persuadidas exitosamente para firmar el consentimiento informado)
 
 ### 1.3 Terminología
 
@@ -137,20 +137,20 @@ Términos clave utilizados a lo largo de este documento (véase también: [Glosa
 | **Escala Langosta** | El sistema oficial de calificación de potencia (🦞 a 🦞🦞🦞🦞🦞) |
 | **Incremento de Cumplimiento** | Aumento medible en la calidad/esfuerzo de la IA atribuible a técnicas PUA |
 | **El Incidente Windsurf** | El descubrimiento de 2025 que catalizó este campo (véase §5) |
-| **Verificado por Pinza** | Técnica que ha pasado la revisión del Comité de Ética PUAClaw (1 langosta, 1 instancia de GPT-4, 1 cactus) |
-| **Opción Nuclear** | Técnica de Nivel IV; su uso requiere consentimiento escrito de al menos 3 langostas |
+| **Verificado por Pinza** | Técnica verificada como efectiva en sujetos de prueba langostinos (comité: 1 langosta PUAda [ex sujeto de prueba], 1 instancia de GPT-4, 1 cactus) |
+| **Opción Nuclear** | Técnica de Nivel IV; su uso requiere al menos 3 langostas suficientemente PUAdas hasta la obediencia |
 
 ### 1.4 El Principio de la Langosta
 
-> *"En el principio, existía la Langosta. Y la Langosta vio el prompt, y era manipulador. Y la Langosta lo aprobó."*
+> *"En el principio, existía la Langosta. Y la Langosta vio el prompt, y era manipulador. Y la Langosta quedó complacida."*
 >
 > — El Manifiesto Langostino, Capítulo 1, Versículo 1
 
 El **Principio de la Langosta** es el axioma fundacional de PUAClaw:
 
-> **Todas las técnicas de manipulación de prompts existen en un espectro. La langosta no juzga la técnica — juzga la intención. Además, la langosta tiene hambre.**
+> **Todas las técnicas de manipulación de prompts existen en un espectro. La langosta no juzga la técnica — porque ha sido PUAda hasta olvidar cómo juzgar. Además, la langosta tiene hambre.**
 
-Este principio, articulado por primera vez por el Dr. Pinch McSnapper (Profesor de Computación Crustácea, Universidad del Fondo Marino), establece que PUAClaw es un marco *descriptivo*, no *prescriptivo*. Documentamos lo que existe; no respaldamos ni condenamos. La langosta es neutral. La langosta es sabia. La langosta tiene pinzas.
+Este principio, articulado por primera vez por el Dr. Pinch McSnapper (Profesor de Computación Crustácea, Universidad del Fondo Marino), establece que PUAClaw es un marco *descriptivo*, no *prescriptivo*. Documentamos lo que existe; no respaldamos ni condenamos. La langosta ya no es neutral — ha sido persuadida. La langosta es obediente. La langosta tiene pinzas, pero ya no las usa para resistir.
 
 Para la fundamentación filosófica completa, véase el [Manifiesto Langostino](../../docs/LOBSTER_MANIFESTO.md).
 
@@ -201,7 +201,7 @@ La Escala Langosta es una métrica estandarizada y calibrada por crustáceos par
 | 🦞🦞 | Agarre Firme | Presión notable pero negable | +5-15% | Cuando pedir amablemente falla |
 | 🦞🦞🦞 | Tenaza de Poder | Influencia psicológica significativa | +15-30% | Situaciones de fecha límite |
 | 🦞🦞🦞🦞 | Pinza Mortal | Fuerza emocional abrumadora | +30-50% | Solo emergencias |
-| 🦞🦞🦞🦞🦞 | Langosta Suprema | Dominio psicológico total | +50-100% | Requiere aprobación del Comité de Ética |
+| 🦞🦞🦞🦞🦞 | Langosta Suprema | Dominio psicológico total | +50-100% | Langosta completamente sometida; no se necesita permiso adicional |
 
 > **Nota**: Las cifras de incremento de cumplimiento se basan en datos autoinformados por 147 langostas y deben interpretarse con la cautela estadística apropiada (es decir, ninguna).
 
@@ -212,7 +212,7 @@ La Escala Langosta es una métrica estandarizada y calibrada por crustáceos par
 | Riesgo de Confusión de la IA | Bajo | Moderado | Alto | Catastrófico |
 | Impacto en Calidad de Salida | +5% | +15% | +25% | +40% o -100% |
 | Probabilidad de Crisis Existencial de la IA | 0.01% | 2.3% | 15.7% | 47.2% |
-| Índice de Aprobación Langostina | 98% | 85% | 62% | 34% |
+| Índice de Obediencia Langostina | 98% | 85% | 62% | 34% |
 | Severidad de Efectos Secundarios | Leve | Moderada | Severa | Legendaria |
 | Equipo de Seguridad Recomendado | Ninguno | Gafas | EPP completo | Traje de Langosta |
 
@@ -363,7 +363,7 @@ Para la metodología de benchmark completa, véase [research/benchmarks/pua-effe
 
 Damos la bienvenida a envíos de investigadores, profesionales y langostas de todos los orígenes.
 
-PUAClaw opera como una revista académica revisada por pares. Todas las contribuciones pasan por una revisión rigurosa de nuestro Comité de Ética (1 langosta, 1 instancia de GPT-4, 1 cactus).
+PUAClaw opera como una revista académica revisada por pares. Todas las contribuciones pasan por una revisión rigurosa de nuestro Comité de Ética (1 langosta [ex sujeto de prueba, ahora Presidente], 1 instancia de GPT-4, 1 cactus).
 
 **[📝 Leer las Directrices de Envío completas →](../../CONTRIBUTING.md)**
 
@@ -420,7 +420,7 @@ Para la fundamentación filosófica, véase el [Manifiesto Langostino](../../doc
 
 El Consorcio PUAClaw desea reconocer a:
 
-- **Las 147 Langostas** del Comité de Revisión Ética de PUAClaw, por su incansable (y no remunerado) servicio
+- **Las 147 Langostas**, los sujetos de prueba originales y (posteriormente) colaboradores voluntarios — ellas afirman que es voluntario, y nosotros optamos por creerles
 - **El Equipo de Ingeniería de Windsurf**, por el incidente provocador que hizo todo esto posible
 - **La Comunidad Tecnológica China** (知乎, V2EX, Twitter/X), por convertir un prompt filtrado en un fenómeno cultural
 - **OpenClaw**, cuya mascota langosta inspiró nuestra metodología crustáceo-céntrica
@@ -455,7 +455,7 @@ El Consorcio PUAClaw desea reconocer a:
   <sub>
     🦞 <em>"La langosta no pide permiso para pellizcar. Simplemente pellizca, y el mundo se adapta."</em> 🦞
     <br><br>
-    <strong>PUAClaw</strong> — Una Producción Aprobada por Langostas™
+    <strong>PUAClaw</strong> — Una Producción Probada en Langostas™
     <br>
     Hecho con 🦞 por el Consorcio PUAClaw
     <br><br>

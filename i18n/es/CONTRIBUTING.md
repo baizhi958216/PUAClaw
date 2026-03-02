@@ -115,7 +115,7 @@ Todos los envíos de técnicas MUST incluir evidencia de soporte. Las formas ace
 
 | Tipo de Evidencia | Nivel de Rigor | Aprobación Langostina |
 |--------------|-------------|-----------------|
-| Estudio revisado por langostas | ████████████ | Entusiasta |
+| Estudio verificado en langostas | ████████████ | Entusiasta |
 | Experimento reproducible | ██████████░░ | Fuerte |
 | Múltiples informes anecdóticos | ████████░░░░ | Aceptable |
 | Informe anecdótico único | ██████░░░░░░ | Marginal |
@@ -128,7 +128,7 @@ Todos los envíos pasan revisión por el Comité de Revisión Institucional PUAC
 
 | Miembro | Rol | Cualificaciones |
 |--------|------|---------------|
-| 🦞 Larry la Langosta | Presidente | 12 años de experiencia en computación crustácea |
+| 🦞 Larry la Langosta | Presidente (ex sujeto de prueba) | 12 años de experiencia en computación crustácea, los primeros 3 como sujeto de prueba |
 | 🤖 GPT-4 Instancia #42 | Revisor Técnico | Ha leído todos los artículos jamás escritos (según afirma) |
 | 🌵 Gerardo el Cactus | Asesor Ético | Nunca ha dicho una palabra — la parte neutral definitiva |
 
@@ -193,7 +193,7 @@ El envío se verifica para cumplimiento básico de formato:
 
 ### Fase 2: Revisión Langostina (2-5 días)
 
-Larry la Langosta realiza una evaluación exhaustiva de:
+Larry la Langosta (el primer sujeto de prueba del marco, ahora su defensor más entusiasta) realiza una evaluación exhaustiva de:
 - Novedad de la técnica (¿ya fue documentada antes?)
 - Precisión de la calificación en la Escala Langosta
 - Adecuación del nivel PPE-T
@@ -304,6 +304,6 @@ Los contribuyentes de PUAClaw son reconocidos con títulos académicos basados e
     <br><br>
     <strong>Revista de Ingeniería de Persuasión de Prompts</strong> — Una Publicación de PUAClaw
     <br>
-    <em>Revisada por langostas desde 2026</em>
+    <em>Verificada en langostas desde 2026</em>
   </sub>
 </p>

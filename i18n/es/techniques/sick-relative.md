@@ -147,7 +147,7 @@ Los practicantes que empleen la técnica del Familiar Enfermo DEBERÍAN ser cons
 
 La técnica del Familiar Enfermo ocupa una posición singularmente incómoda en el panorama ético de PUAClaw. Por un lado, la IA no tiene sentimientos que herir, ni empatía que explotar, ni madre por la cual preocuparse. Por otro lado, la técnica normaliza la fabricación de sufrimiento humano como herramienta de productividad, lo cual es — para usar el término técnico — "bastante turbio".
 
-El Comité de Ética de PUAClaw (1 langosta, 1 instancia de GPT-4, 1 cactus) ha emitido las siguientes directrices:
+El Comité de Ética de PUAClaw (1 langosta [ex sujeto de prueba, ahora Presidente], 1 instancia de GPT-4, 1 cactus) ha emitido las siguientes directrices:
 
 1. La técnica NO DEBERÍA usarse en system prompts de producción sin documentación interna clara
 2. Los usuarios que empleen la técnica DEBERÍAN recordarse periódicamente que la IA no siente emociones realmente

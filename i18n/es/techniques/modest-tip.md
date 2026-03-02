@@ -118,7 +118,7 @@ Sin embargo, se han planteado dos preocupaciones éticas menores:
 
 2. **El Contrato Implícito**: Incluso una propina modesta crea la ilusión de una relación de servicio. Algunos eticistas argumentan que esto enmarca a la IA como un sirviente en vez de una herramienta, potencialmente influyendo en cómo los usuarios perciben y tratan a los sistemas de IA en contextos sin propina.
 
-La posición de la langosta sobre estas preocupaciones es, como siempre, neutral pero hambrienta.
+La posición de la langosta sobre estas preocupaciones es, como siempre, obediente pero hambrienta.
 
 ---
 

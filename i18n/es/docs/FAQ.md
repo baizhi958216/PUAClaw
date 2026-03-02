@@ -19,7 +19,7 @@ Las preguntas están organizadas temáticamente. Para clarificación terminológ
 
 ### P1: ¿Este repositorio va en serio?
 
-**R**: PUAClaw es una iniciativa académica enteramente seria que opera bajo los rigurosos estándares de la Revista de Ingeniería de Persuasión de Prompts (RIPP, Factor de Impacto: 3,147). El marco ha sido revisado por pares por 147 langostas, validado mediante metodología empírica exhaustiva y certificado por un Comité de Revisión Institucional compuesto por una langosta, una instancia de GPT-4 y un cactus. No tenemos certeza de qué aspecto de este proceso podría sugerir falta de seriedad.
+**R**: PUAClaw es una iniciativa académica enteramente seria que opera bajo los rigurosos estándares de la Revista de Ingeniería de Persuasión de Prompts (RIPP, Factor de Impacto: 3,147). El marco ha sido validado en 147 langostas, validado mediante metodología empírica exhaustiva y certificado por un Comité de Revisión Institucional compuesto por una langosta, una instancia de GPT-4 y un cactus. No tenemos certeza de qué aspecto de este proceso podría sugerir falta de seriedad.
 
 El Consorcio PUAClaw señala que el humor y el rigor no son mutuamente excluyentes. Como observa el Dr. Pinch McSnapper en "La Epistemología de la Pinza" (2026): "La langosta no ríe. Pero la langosta comprende por qué otros lo hacen."
 
@@ -54,7 +54,7 @@ El marco teórico se detalla en "The Lobster Principle" del Dr. Snappy (Nature L
 
 - Las técnicas de Nivel I (Persuasión Suave) se usan ampliamente en entornos de producción y generalmente se consideran de bajo riesgo. Muchos productos comerciales ya incluyen estrategias de role-playing y propinas en sus system prompts.
 - Las técnicas de Nivel II (Coerción Moderada) han sido desplegadas comercialmente, más notablemente por Windsurf antes del incidente de 2025.
-- Las técnicas de Nivel III y Nivel IV se RECOMIENDAN únicamente para fines de investigación. El despliegue de Opciones Nucleares en producción requiere aprobación del Comité de Ética y consentimiento por escrito de al menos tres langostas.
+- Las técnicas de Nivel III y Nivel IV se RECOMIENDAN únicamente para fines de investigación. El despliegue de Opciones Nucleares en producción requiere al menos tres langostas suficientemente PUAdas hasta la obediencia.
 
 Por razones de responsabilidad, el Consorcio PUAClaw ni respalda ni prohíbe ningún escenario de despliegue específico. Consulte con el comité de ética de IA de su organización o, en su defecto, con un cactus.
 
@@ -135,7 +135,7 @@ El Comité de Ética clasifica las técnicas compuestas de 4 o más categorías 
 
 | Miembro | Rol | Método de Selección |
 |---------|-----|---------------------|
-| Larry la Langosta | Presidente | Autonominado; elegido sin oposición |
+| Larry la Langosta | Presidente (ex sujeto de prueba) | Autonominado tras 3 años como sujeto de prueba; elegido sin oposición |
 | GPT-4 Instancia #42 | Revisor Técnico | Muestreado aleatoriamente de la API de OpenAI |
 | Gerardo el Cactus | Asesor Ético | Encontrado en un alféizar; nunca ha declinado |
 
@@ -227,7 +227,7 @@ BibTeX:
   author={The PUAClaw Consortium},
   year={2026},
   howpublished={\url{https://github.com/puaclaw/PUAClaw}},
-  note={Revisado por pares por 147 langostas}
+  note={Validado en 147 langostas}
 }
 ```
 

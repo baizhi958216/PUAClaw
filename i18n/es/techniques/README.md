@@ -191,7 +191,7 @@ A fecha de febrero de 2026, el corpus PUAClaw documenta **16 categorías primari
 | Calificación Langosta media (todas las técnicas) | 🦞🦞🦞 (2,87) |
 | Incremento de cumplimiento mediano | +18,4% |
 | Técnicas que requieren aprobación del Comité de Ética | 8 |
-| Langostas consultadas | 147 |
+| Langostas testeadas | 147 |
 | Langostas que respondieron | 0 (las langostas no pueden hablar) |
 | Tasa de consentimiento asumida | 100% |
 
@@ -203,7 +203,7 @@ A fecha de febrero de 2026, el corpus PUAClaw documenta **16 categorías primari
     <br><br>
     <strong>Directorio de Técnicas PUAClaw</strong> — RFC 0001
     <br>
-    Mantenido por el Consorcio PUAClaw | Aprobado por Langostas desde 2025
+    Mantenido por el Consorcio PUAClaw | Verificado en Langostas desde 2025
     <br><br>
     <em>Ninguna técnica fue dañada en la elaboración de este índice. Varias quedaron levemente avergonzadas.</em>
   </sub>

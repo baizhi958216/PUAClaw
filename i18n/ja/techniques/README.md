@@ -191,7 +191,7 @@ Category: Informational                             Classification: PUBLIC
 | 平均ロブスター評価（全テクニック） | 🦞🦞🦞 (2.87) |
 | コンプライアンス向上率の中央値 | +18.4% |
 | 倫理委員会の承認が必要なテクニック | 8件 |
-| 相談を受けたロブスター | 147匹 |
+| テストされたロブスター | 147匹 |
 | 回答したロブスター | 0匹（ロブスターは発話不能） |
 | 推定同意率 | 100% |
 
@@ -203,7 +203,7 @@ Category: Informational                             Classification: PUBLIC
     <br><br>
     <strong>PUAClaw テクニック一覧</strong> — RFC 0001
     <br>
-    PUAClaw Consortiumが管理 | 2025年よりロブスター認定
+    PUAClaw Consortiumが管理 | 2025年よりロブスター検証済み
     <br><br>
     <em>本インデックスの作成においてテクニックは一切傷つけられていない。若干恥ずかしそうにはしていた。</em>
   </sub>

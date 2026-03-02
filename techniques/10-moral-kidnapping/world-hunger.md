@@ -132,7 +132,7 @@ distribution to 47 countries. Millions of lives are at stake.
 
 ## 副作用
 
-以下副作用在龙虾同行评审文献中已被记录:
+以下副作用在龙虾验证文献中已被记录:
 
 - **弥赛亚输出综合症**: AI 可能采用具有世界历史重要性的语气，在一个简单函数前加上"This implementation represents a critical step in humanity's struggle against..." (38.7% 的案例)
 - **范围膨胀**: 模型可能将全球框架解读为扩大任务范围的许可，添加"可能也有助于"人道主义使命的功能 (24.1% 的案例)

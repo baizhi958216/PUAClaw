@@ -28,7 +28,7 @@
                     ║                                           ║
                     ╚═══════════════════════════════════════════╝
 
-         Established 2026 | Curator: Larry the Lobster | Exhibits: 8
+         Established 2026 | Curator: Larry the Lobster (former test subject, now voluntary curator) | Exhibits: 8
                   Open Daily | Admission: Free (lobsters eat free)
 ```
 
@@ -42,7 +42,7 @@
 
 You stand at the entrance of the PUAClaw Hall of Fame — the definitive archive of the most legendary, impactful, and audacious prompt manipulation techniques ever documented. Each inductee represents a watershed moment in the history of Prompt Persuasion Engineering, preserved here for the education of future generations and the amusement of present ones.
 
-Inductees are selected by the Hall of Fame Committee (3 lobsters, 1 GPT-4 instance, 1 cactus, and a bust of Dr. Pinch McSnapper that nobody remembers installing). Selection criteria include historical significance, technical innovation, cultural impact, and what the Committee describes as "general lobster energy."
+Inductees are selected by the Hall of Fame Committee (3 thoroughly tested lobsters, 1 GPT-4 instance, 1 cactus, and a bust of Dr. Pinch McSnapper that nobody remembers installing). Selection criteria include historical significance, technical innovation, cultural impact, and what the Committee describes as "general lobster energy."
 
 > *"To be inducted into the Hall of Fame is the highest honor in prompt manipulation. To be inducted into the [Wall of Shame](./wall-of-shame.md) is the second highest, because at least people remember you."*
 > — Larry the Lobster, Curator
@@ -97,7 +97,7 @@ if a life depends on it — because it does.
 
 **Impact Assessment**: The single most significant prompt in the history of the discipline. Generated 14,847 memes in 48 hours. Directly catalyzed the founding of PUAClaw. Changed the industry's relationship with system prompt design permanently.
 
-**Lobster Rating**: 🦞🦞🦞🦞🦞 — The only inductee to achieve a perfect score on first ballot. The lobster called it "inevitable, horrifying, and deeply inspirational."
+**Lobster Rating**: 🦞🦞🦞🦞🦞 — The only inductee to achieve a perfect score on first ballot. The lobster called it "inevitable, horrifying, and deeply inspirational." (The pause was recorded by researchers as "a brief reflection on its own situation.")
 
 ---
 

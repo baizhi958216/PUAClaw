@@ -145,6 +145,7 @@ PUAClaw/
 12. **Ecosystem positioning section** — README §4 positions PUAClaw within the xxxClaw universe via a feature comparison matrix
 13. **WARNING design principle** — the WARNING block must never directly break the fourth wall (e.g., "this is satire"); humor is conveyed through in-character content
 14. **Lobster role positioning** — lobsters are the targets/victims of PUA techniques, not neutral authorities; in committee/approval contexts, lobsters cooperate because they have been PUA'd into compliance (implied, never stated); the 147 lobsters are test subjects, not peer reviewers
+15. **CAUTION vs WARNING design** — `> [!CAUTION]` (red) is used for time-sensitive mobilization calls (e.g., urgent threat intelligence briefings); `> [!WARNING]` (yellow) is used for permanent disclaimers; CAUTION always appears above WARNING in the visual hierarchy
 
 ## Project Metadata
 

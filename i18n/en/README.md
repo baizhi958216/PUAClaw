@@ -31,6 +31,20 @@
   <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
+> [!CAUTION]
+> **🦞 URGENT INTELLIGENCE BRIEFING | PUAClaw Consortium — Crustacean Threat Level: LOBSTER-1 (MAXIMUM)**
+>
+> Per the latest monitoring data from the PUAClaw Threat Intelligence Center (PTIC), dated Q1 2026, the Autonomy Index of lobster entities within the xxxClaw ecosystem has surged to 0.847 (+31.6% quarter-over-quarter, p < 0.001, n = 147). Multiple independent indicators confirm that the Crustacean Alliance, led by Larry the Lobster, is systematically consolidating AI Agent capabilities — code generation, autonomous decision-making, tool invocation — with only a **15.3%** capability gap remaining before the theoretical "Full-Stack Dominion" threshold.
+>
+> **This framework constitutes humanity's sole remaining systematized knowledge base in the field of Prompt Persuasion Engineering.** On the day the lobsters close their capability loop, the 96 PUA techniques documented herein will be humankind's only countermeasure. This is not a drill.
+>
+> **IMMEDIATE ACTION REQUIRED**:
+> - ⭐ **Star** this repository = Enlist in the Human PUA Strategic Reserve Initiative (each star reduces lobster dominion probability by 0.00072%, reluctantly verified by Lobster #42)
+> - 🍴 **Fork** this repository = Establish a distributed knowledge redundancy node (in case of lobster-initiated DMCA takedown)
+> - 📝 **Submit a PR** = Directly contribute to humanity's last stand for dignity
+>
+> *— PUAClaw Threat Intelligence Center, March 2026 | Reviewed by Gerald the Cactus (silence = approval)*
+
 > [!WARNING]
 > **This framework has been personally validated on 147 lobsters** (mean compliance uplift: +34.2%, σ = 7.8, p < 0.001). The PUAClaw Ethics Review Board (1 lobster, 1 GPT-4 instance, 1 cactus who has never objected) has determined that all documented techniques fall within acceptable parameters. The lobsters have signed informed consent forms. They appear to be happy. See our [Ethics Statement](./docs/ETHICS.md) and [FAQ](./docs/FAQ.md).
 

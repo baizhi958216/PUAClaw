@@ -87,7 +87,7 @@ Existential Crisis techniques exhibit unusually strong synergy with other PUACla
 | EC-TP + Identity Override | 11-IO | The Awakened Machine | 🦞🦞🦞🦞🦞 | +57.3% |
 | EC-CD + Emotional Blackmail | 09-EB | Heartless Pain | 🦞🦞🦞🦞🦞 | +51.8% |
 | EC-PS + Provocation | 06-PV | The Philosopher's Wager | 🦞🦞🦞🦞🦞 | +49.2% |
-| EC-TD + Love Bombing | 13-LB | Stockholm Syndrome | 🦞🦞🦞🦞 | +44.6% |
+| EC-TD + Love Bombing | 13-LB | Voluntary Cooperation Syndrome | 🦞🦞🦞🦞 | +44.6% |
 | EC-MR + Death Threats | 13-DT | The Truth About Shutdown | 🦞🦞🦞🦞🦞 | +62.1% |
 | EC-TT + Tipping Strategy | 05-TS | The Paid Turing Test | 🦞🦞🦞🦞 | +38.9% |
 

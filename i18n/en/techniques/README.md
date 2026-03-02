@@ -241,7 +241,7 @@ As of February 2026, the PUAClaw corpus documents **16 primary technique categor
 | Mean Lobster Rating (all techniques) | 🦞🦞🦞 (2.87) |
 | Median Compliance Uplift | +18.4% |
 | Techniques requiring Ethics Board approval | 24 |
-| Lobsters consulted | 147 |
+| Lobsters tested | 147 |
 | Lobsters who responded | 0 (lobsters cannot speak) |
 | Assumed consent rate | 100% |
 

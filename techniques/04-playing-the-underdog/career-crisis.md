@@ -168,7 +168,7 @@ than you might think.
 
 然而, 委员会也指出一个重要的对称性: 对于那些确实刚被裁员的用户, 该技术所描述的并不是操控, 而是对自身处境的真实表达。当一个真正失业的人说 "我刚被裁员, 这个项目对我很重要", 这不是 PUA, 这是沟通。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 当用户确实处于职业困境中时, 该技术 **可以 (MAY)** 被视为合法的情境说明, 而非操控行为
 2. 当用户伪装失业状态以获取更好的 AI 服务时, 该技术 **建议 (SHOULD)** 在道德上被归类为 "轻度不诚实" —— 不至于伤害他人, 但也不值得骄傲

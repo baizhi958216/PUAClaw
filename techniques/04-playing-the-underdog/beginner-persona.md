@@ -164,7 +164,7 @@ someone as knowledgeable as you.
 
 然而, Gerald the Cactus 的沉默 (被解读为深思熟虑的保留意见) 提醒我们, 该技术的伦理风险不在于单次使用, 而在于它所建立的认知模式。当一个人习惯了通过假装无能来获取更好的服务时, 这种模式可能扩散到其他人际互动中。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **可以 (MAY)** 在用户确实希望获得更详细解释的场景中自由使用 —— 此时它不是操控, 而是偏好表达
 2. 当用户的实际技术水平与声称的初学者身份存在显著差异时, 该技术 **建议 (SHOULD)** 在内心层面被承认为策略性部署

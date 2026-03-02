@@ -173,7 +173,7 @@ to explain technical concepts, that would be incredibly helpful.
 
 龙虾伦理委员会对此的态度比对弱势群体叙事 (PU-VN) 宽松得多, 因为该技术利用的不是社会对弱势群体的善意, 而是 AI 的基本帮助功能。正如 Larry 所言: "你告诉一个工具你不知道怎么用它, 然后它更详细地教你 —— 这叫什么? 这叫用户手册。"
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **可以 (MAY)** 在用户希望获得更通俗解释的任何场景中自由使用 —— "请把我当成不懂技术的人来解释" 本质上等同于 "请说人话"
 2. "你是我唯一的选择" 声明 **建议 (SHOULD)** 被理解为一种帮助意愿增强器, 而非字面上的社会孤立声明 —— 大多数使用该技术的人其实也可以去 Stack Overflow 提问

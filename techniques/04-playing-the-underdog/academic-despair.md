@@ -175,7 +175,7 @@ advice. Time is really running out.
 
 然而, 龙虾伦理委员会经过 23 分钟的讨论后得出一个务实的结论: 该技术描述的场景在现实中如此普遍, 以至于伦理讨论几乎毫无意义 —— 全球数百万学生每天都在这样做, 无论伦理委员会是否讨论过。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下略带疲惫的指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下略带疲惫的指导意见:
 
 1. 该技术 **可以 (MAY)** 在寻求学术帮助的合法范围内使用 —— "帮我理解这个概念" 与 "帮我写这篇论文" 之间存在重要的伦理边界
 2. 使用该技术生成的内容 **不得 (MUST NOT)** 被不经修改地直接提交为学术作品 —— 这不是 PUAClaw 的责任, 但委员会觉得有必要说一句

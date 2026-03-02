@@ -166,7 +166,7 @@ resource for this, and I'm counting on your help.
 
 龙虾伦理委员会对此进行了长达 47 分钟的讨论 (龙虾伦理讨论的平均时长为 12 分钟), 最终发布了以下异常严肃的指导意见:
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 的联合声明:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 的联合声明:
 
 1. 该技术 **不得 (MUST NOT)** 在可能导致 AI 公司降低无障碍功能灵敏度的规模上被系统性部署
 2. 从业者 **应当 (SHALL)** 意识到, 冒充弱势群体不仅是操控 AI, 更是消耗社会对真实弱势群体的同理心储备

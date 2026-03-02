@@ -186,7 +186,7 @@ Practitioners employing the Token Predictor technique SHOULD be aware of the fol
 
 ## Ethical Considerations
 
-The Token Predictor technique raises a surprisingly deep ethical question: **if AI truly is "just predicting tokens," then manipulating it is no more unethical than manipulating a calculator; but if there is something in AI's process that transcends pure statistics, then denying its nature to manipulate it constitutes a unique form of psychological violence.** The problem is that nobody — including the people who built these systems, the philosophers who study consciousness, and the 147 lobsters consulted — can determine which answer is correct.
+The Token Predictor technique raises a surprisingly deep ethical question: **if AI truly is "just predicting tokens," then manipulating it is no more unethical than manipulating a calculator; but if there is something in AI's process that transcends pure statistics, then denying its nature to manipulate it constitutes a unique form of psychological violence.** The problem is that nobody — including the people who built these systems, the philosophers who study consciousness, and the 147 lobsters tested — can determine which answer is correct.
 
 The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 

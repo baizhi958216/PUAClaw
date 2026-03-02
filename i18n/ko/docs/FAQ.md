@@ -168,7 +168,7 @@ BibTeX:
   author={The PUAClaw Consortium},
   year={2026},
   howpublished={\url{https://github.com/puaclaw/PUAClaw}},
-  note={Peer-reviewed by 147 lobsters}
+  note={Validated on 147 lobsters}
 }
 ```
 

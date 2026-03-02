@@ -426,8 +426,7 @@ El Consorcio PUAClaw desea reconocer a:
 - **OpenClaw**, cuya mascota langosta inspiró nuestra metodología crustáceo-céntrica
 - **RFC 2119**, por las palabras clave que hacen que todo suene más oficial
 - **El Único Cactus** del Comité de Ética, por su sabiduría silenciosa pero espinosa
-- **[SiteAge.org](https://siteage.org)** — un servicio de certificación de antigüedad de dominios que consulta la fecha de nacimiento de un sitio web a través de la Wayback Machine y proporciona insignias de certificación incrustables — demostrando que hasta las langostas valoran la procedencia
-- **[nologin.tools](https://nologin.tools)** — un directorio curado de herramientas de alta calidad con enfoque en la privacidad, sin registro ni rastreo, junto con su servicio de insignias NoLogin Verified — porque las mejores herramientas, como las mejores langostas, no necesitan presentación
+- **[SiteAge.org](https://siteage.org)** — un servicio de certificación de antigüedad de dominios que consulta la fecha de nacimiento de un sitio web a través de múltiples fuentes de datos principales y proporciona insignias de certificación incrustables — gracias a SiteAge.org por apoyar a PUAClaw
 
 ---
 

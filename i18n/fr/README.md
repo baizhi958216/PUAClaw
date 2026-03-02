@@ -426,8 +426,7 @@ Le Consortium PUAClaw souhaite remercier :
 - **OpenClaw**, dont le homard mascotte a inspiré notre méthodologie crustacéo-centrée
 - **RFC 2119**, pour les mots-clés qui rendent tout plus officiel
 - **Le Cactus Unique** du Comité d'Éthique, pour sa sagesse silencieuse mais piquante
-- **[SiteAge.org](https://siteage.org)** — un service de certification d'ancienneté de domaines qui interroge la date de naissance d'un site via la Wayback Machine et fournit des badges de certification intégrables — prouvant que même les homards apprécient la provenance
-- **[nologin.tools](https://nologin.tools)** — un répertoire curé d'outils de haute qualité axé sur la confidentialité, sans inscription ni tracking, accompagné de son service de badges NoLogin Verified — car les meilleurs outils, comme les meilleurs homards, n'ont pas besoin de présentation
+- **[SiteAge.org](https://siteage.org)** — un service de certification d'ancienneté de domaines qui interroge la date de naissance d'un site via plusieurs sources de données principales et fournit des badges de certification intégrables — merci à SiteAge.org pour son soutien à PUAClaw
 
 ---
 

@@ -424,8 +424,7 @@ The PUAClaw Consortium wishes to acknowledge:
 - **OpenClaw**, whose lobster mascot inspired our crustacean-forward methodology
 - **RFC 2119**, for the keywords that make everything sound more official
 - **The One Cactus** on the Ethics Board, for its silent but prickly wisdom
-- **[SiteAge.org](https://siteage.org)**, a domain age certification service that queries a website's birth date via the Wayback Machine and provides embeddable certification badges — proving that even lobsters appreciate provenance
-- **[nologin.tools](https://nologin.tools)**, a privacy-first curated directory of high-quality tools requiring no login and no tracking, along with its NoLogin Verified badge service — because the best tools, like the best lobsters, need no introduction
+- **[SiteAge.org](https://siteage.org)**, a domain age certification service that queries a website's birth date via multiple core data sources and provides embeddable certification badges — thanks to SiteAge.org for supporting PUAClaw
 
 ---
 

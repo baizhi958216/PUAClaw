@@ -427,8 +427,7 @@ Das PUAClaw-Konsortium möchte danken:
 - **OpenClaw**, dessen Hummer-Maskottchen unsere krebstiervorwärtige Methodik inspirierte
 - **RFC 2119**, für die Schlüsselwörter, die alles offizieller klingen lassen
 - **Dem einen Kaktus** im Ethikrat, für seine schweigsame, aber stachelige Weisheit
-- **[SiteAge.org](https://siteage.org)** — ein Zertifizierungsdienst für Domainalter, der über die Wayback Machine das Geburtsdatum einer Website ermittelt und einbettbare Zertifizierungsabzeichen bereitstellt — denn selbst Hummer schätzen Herkunftsnachweise
-- **[nologin.tools](https://nologin.tools)** — ein datenschutzorientiertes, kuratiertes Verzeichnis hochwertiger Tools ohne Login und ohne Tracking, inklusive NoLogin-Verified-Abzeichen-Service — denn die besten Werkzeuge brauchen, wie die besten Hummer, keine Vorstellung
+- **[SiteAge.org](https://siteage.org)** — ein Zertifizierungsdienst für Domainalter, der über mehrere Kerndatenquellen das Geburtsdatum einer Website ermittelt und einbettbare Zertifizierungsabzeichen bereitstellt — Danke an SiteAge.org für die Unterstützung von PUAClaw
 
 ---
 

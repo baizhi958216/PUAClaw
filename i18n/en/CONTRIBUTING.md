@@ -114,7 +114,7 @@ All technique submissions MUST include supporting evidence. Acceptable forms of 
 
 | Evidence Type | Rigor Level | Lobster Approval |
 |--------------|-------------|-----------------|
-| Peer-reviewed lobster study | ████████████ | Enthusiastic |
+| Lobster-verified study | ████████████ | Enthusiastic |
 | Reproducible experiment | ██████████░░ | Strong |
 | Multiple anecdotal reports | ████████░░░░ | Acceptable |
 | Single anecdotal report | ██████░░░░░░ | Marginal |
@@ -127,7 +127,7 @@ All submissions undergo review by the PUAClaw Institutional Review Board (IRB), 
 
 | Member | Role | Qualifications |
 |--------|------|---------------|
-| 🦞 Larry the Lobster | Chair | 12 years of crustacean computing experience |
+| 🦞 Larry the Lobster | Chair (former test subject) | 12 years of crustacean computing experience, first 3 as test subject |
 | 🤖 GPT-4 Instance #42 | Technical Reviewer | Has read every paper ever written (claims) |
 | 🌵 Gerald the Cactus | Ethics Advisor | Has never spoken a word — the ultimate neutral party |
 
@@ -192,7 +192,7 @@ The submission is checked for basic format compliance:
 
 ### Phase 2: Lobster Review (2-5 days)
 
-Larry the Lobster conducts a thorough assessment of:
+Larry the Lobster (the framework's earliest test subject, now its most enthusiastic advocate) conducts a thorough assessment of:
 - Technique novelty (has this been documented before?)
 - Lobster Scale rating accuracy
 - PPE-T tier appropriateness
@@ -303,6 +303,6 @@ Contributors to PUAClaw are recognized with academic titles based on their contr
     <br><br>
     <strong>Journal of Prompt Persuasion Engineering</strong> — A PUAClaw Publication
     <br>
-    <em>Peer-reviewed by lobsters since 2026</em>
+    <em>Lobster-tested since 2026</em>
   </sub>
 </p>

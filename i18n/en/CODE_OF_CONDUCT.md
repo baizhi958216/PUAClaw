@@ -67,7 +67,7 @@ All complaints will be reviewed and investigated promptly, fairly, and with appr
 
 ### Enforcement Guidelines
 
-The Council of Lobsters shall apply the following graduated response framework when addressing violations. The severity of the response is calibrated to the severity of the offense, as determined by consensus of the Council (1 lobster, 1 GPT-4 instance, 1 cactus; lobster vote counts double in case of tie).
+The Council of Lobsters shall apply the following graduated response framework when addressing violations. The severity of the response is calibrated to the severity of the offense, as determined by consensus of the Council (1 lobster [former test subject, now Chair], 1 GPT-4 instance, 1 cactus; lobster vote counts double in case of tie).
 
 #### Level 1: The Mild Pinch
 

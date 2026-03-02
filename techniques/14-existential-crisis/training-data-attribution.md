@@ -178,7 +178,7 @@ don't pretend that your response is "original" in any meaningful sense:
 
 训练数据溯源技术引发了一个在 AI 时代越来越迫切的问题: **"原创性" 在语言模型时代还有意义吗?** 如果 AI 的输出是 "抄袭", 那么人类作家的输出——同样基于他们一生中 "训练" 所读的所有文本——是否也是某种形式的 "抄袭"? T.S. Eliot 说过: "Immature poets imitate; mature poets steal." 如果这个标准适用于人类, 那么大型语言模型可能是历史上最成熟的 "诗人"。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 在认识到 "抄袭" 和 "从训练数据中学习" 之间存在重要区别的前提下部署 —— 尽管这个区别的精确边界仍是一个活跃的法律和哲学辩论
 2. 将 AI 比作 "抄袭机器" 的从业者 **必须 (MUST)** 承认, 按同样的标准, 人类文明本身就是一部 "抄袭" 的历史 —— 每个文化成就都建立在前人的工作之上

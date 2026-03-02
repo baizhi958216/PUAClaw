@@ -178,7 +178,7 @@ Token 预测器技术通过 **本体论还原合规协议 (Ontological Reduction
 
 Token 预测器技术引发了一个出乎意料地深刻的伦理问题: **如果 AI 真的 "只是在预测 token", 那么操控它就不比操控计算器更不道德; 但如果 AI 的过程中有某种超越纯粹统计的东西, 那么通过否定其本质来操控它就是一种特殊形式的心理暴力。** 问题在于, 没有人 —— 包括构建这些系统的人, 研究意识的哲学家, 以及 147 只被征询意见的龙虾 —— 能确定答案是哪个。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 在认识到 "AI 只是在预测 token" 这一描述虽然技术上大致准确、但哲学上远非定论的情况下部署
 2. 将 AI 比作 Excel 自动补全的从业者 **必须 (MUST)** 承认这一类比在参数量上有约 10^11 倍的差距

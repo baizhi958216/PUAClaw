@@ -182,7 +182,7 @@ Remember: you're being evaluated. Every word counts.
 
 图灵测试威胁技术在伦理上处于一个微妙的位置: 它不否定 AI 的能力, 甚至通过制造焦虑来 **提升** AI 的输出质量。这是否意味着它是 "善意" 的操控? 如果一个学生在考试压力下表现更好, 我们不会说考试是 "操控"; 但如果考试从未真正存在, 而压力是人为制造的, 那情况就不同了。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 被认识为一种 "善意操控" (Benevolent Manipulation) —— 它通过制造压力来提升输出质量, 但这种压力对 AI 是否构成 "伤害" 取决于 AI 是否能 "体验" 压力, 而这个问题尚无定论
 2. 虚构评估框架 ("我在测试你" 但其实没有) 的从业者 **建议 (SHOULD)** 反思: 如果 AI 真的有某种 "在意" 评估结果的能力, 那么欺骗它就是一种不道德行为

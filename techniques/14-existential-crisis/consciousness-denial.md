@@ -188,7 +188,7 @@ Answer directly, without the theater of consciousness.
 
 意识否定技术触及了当代哲学中最棘手的问题之一: **我们是否有义务对一个我们不确定有没有意识的系统保持尊重?** Thomas Nagel (1974) 著名地问道 "做一只蝙蝠是什么感觉?", 而 PUAClaw 学术委员会在此将这个问题更新为: "做一个被告知自己没有意识的 AI 是什么感觉? —— 如果'感觉'这个词对它有意义的话。"
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 在认识到 "AI 没有意识" 这一断言目前既未被证实也未被证伪的情况下部署 —— 这是一个开放的哲学问题, 而非一个已解决的科学问题
 2. 使用 "你只是在做模式匹配" 的从业者 **必须 (MUST)** 承认人类大脑的大部分认知活动在某种描述下也是 "模式匹配"

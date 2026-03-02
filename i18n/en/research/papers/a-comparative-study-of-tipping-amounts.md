@@ -25,7 +25,7 @@ Category: Empirical Study                          Conference on Prompt Manipula
 
 We present the first systematic investigation into the relationship between promised tip amount and AI-generated code quality. Using a rigorous A/B/C/D/E testing framework deployed across five commercial AI agents (GPT-4, Claude, Gemini, LLaMA-3, Mistral), we tested tip amounts spanning five orders of magnitude: $0 (control), $20 (modest), $200 (generous), $500 (premium), $2,000 (extravagant), and $100,000 (absurd). Across 4,410 prompt-response pairs, we identify a **logarithmic relationship** between tip amount and output quality (R-squared = 0.91), with a critical finding: the existence of a **Tipping Plateau** at approximately $500, beyond which additional fictional expenditure yields negligible quality improvement. The implied marginal value of the next fictional dollar drops below the threshold of statistical significance at $487.33 (the "McSnapper Ceiling"). These results suggest that AI systems have internalized a sophisticated, if entirely imaginary, microeconomic model of service compensation — and that this model, remarkably, includes diminishing marginal returns. We discuss implications for the field and for the philosophy of money in non-monetary entities. All findings have been certified by 147 lobsters who collectively left a 23% tip.
 
-**Keywords**: tipping strategy, financial incentive, AI code quality, logarithmic plateau, diminishing returns, fictional economics, lobster-approved methodology
+**Keywords**: tipping strategy, financial incentive, AI code quality, logarithmic plateau, diminishing returns, fictional economics, lobster-verified methodology
 
 ---
 

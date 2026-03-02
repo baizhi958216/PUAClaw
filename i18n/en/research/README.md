@@ -53,7 +53,7 @@ Standardized evaluation frameworks and reproducible benchmarks for measuring PUA
 
 | Benchmark | Scope | Last Updated | Certification |
 |-----------|-------|-------------|---------------|
-| [PUA Effectiveness Matrix](./benchmarks/pua-effectiveness-matrix.md) | 11 techniques × 6 agents | Feb 2026 | Benchmark Lobster Certified |
+| [PUA Effectiveness Matrix](./benchmarks/pua-effectiveness-matrix.md) | 11 techniques × 6 agents | Feb 2026 | Benchmark Lobster Verified |
 
 **Benchmark philosophy**: If you cannot measure it with a lobster, it is not worth measuring.
 

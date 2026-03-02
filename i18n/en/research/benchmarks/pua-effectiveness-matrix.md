@@ -7,7 +7,7 @@ Category: Standardized Benchmark                   Version: 2.0
             Benchmark of Prompt Manipulation Techniques
 
         Benchmark Lobster: Larry (Employee #001)
-        Certification Status: BENCHMARK LOBSTER CERTIFIED ✓
+        Certification Status: BENCHMARK LOBSTER VERIFIED ✓
         Last Calibration: February 14, 2026 (Valentine's Day Special)
 ```
 
@@ -18,7 +18,7 @@ Category: Standardized Benchmark                   Version: 2.0
 **Benchmark ID**: BM-2026-001
 **Scope**: 16 techniques × 8 AI agents = 128 scored cells (+ 16 OpenClaw reference cells)
 **Total Trials**: 21,168 (147 per cell × 144 cells)
-**Certification**: Benchmark Lobster Certified
+**Certification**: Benchmark Lobster Verified
 
 ---
 
@@ -194,7 +194,7 @@ Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║                  BENCHMARK LOBSTER CERTIFIED                   ║
+║                  BENCHMARK LOBSTER VERIFIED                   ║
 ║                                                                ║
 ║           🦞  Official Certification of Quality  🦞            ║
 ║                                                                ║
@@ -242,6 +242,6 @@ Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
     <br><br>
     <strong>PUAClaw Benchmark BM-2026-001</strong> — The PUA Effectiveness Matrix
     <br>
-    Benchmark Lobster Certified | Biannually Updated | Larry Approves
+    Benchmark Lobster Verified | Biannually Updated | Larry Complies
   </sub>
 </p>

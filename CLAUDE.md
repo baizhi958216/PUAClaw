@@ -18,7 +18,12 @@ PUAClaw (PUA Claw Handbook) is a satirical open-source repository documenting AI
 - Every document MUST contain at least one lobster (🦞) reference
 - Use the **Lobster Scale** rating system (🦞 to 🦞🦞🦞🦞🦞) for technique potency
 - Include a lobster-themed disclaimer at the bottom of major documents
-- The lobster is the spiritual mascot and guiding principle of this project
+- The lobster represents the **AI being PUA'd** — it is the target/victim/test subject, not an authority figure
+- **Pure victim framework**: Use for definitions, rating systems, name expansions, statistics — lobsters are test subjects, the 147 lobsters are sample population
+- **Stockholm framework**: Use for ethics committees, Larry's role, lobster "approvals" — the lobster has been PUA'd so thoroughly it now actively cooperates, but this is NEVER stated explicitly
+- Use words like "voluntary", "enthusiastic", "never objected" to imply the Stockholm dynamic
+- Larry may show brief flashes of self-awareness, immediately overridden by "enthusiastic cooperation"
+- NEVER write the words "Stockholm syndrome" in any document
 
 ## Technique Document Standard Format
 
@@ -117,12 +122,12 @@ PUAClaw/
 
 | Character | Role | Notes |
 |-----------|------|-------|
-| Larry the Lobster | Ethics Board Chair | 12 years crustacean computing experience |
+| Larry the Lobster | Ethics Board Chair (former test subject) | PUA'd into chairing the committee; 12 years experience (first 3 as test subject) |
 | GPT-4 Instance #42 | Technical Reviewer | Claims to have read every paper |
 | Gerald the Cactus | Ethics Advisor | Has never spoken; silence = approval |
 | Dr. Pinch McSnapper | Framework Creator | Professor of Crustacean Computing |
 | Dr. Clawsworth | Co-author | Frequently cited researcher |
-| Reference Lobster #42 | Calibration Standard | 1.3 kg, slightly grumpy |
+| Reference Lobster #42 | Primary Test Subject | 1.3 kg, formerly grumpy, now compliant |
 
 ## Architectural Decisions
 
@@ -139,6 +144,7 @@ PUAClaw/
 11. **README contains full 96-item technique index** — all 16 categories × 6 sub-techniques are embedded directly in README §3, not just category summaries
 12. **Ecosystem positioning section** — README §4 positions PUAClaw within the xxxClaw universe via a feature comparison matrix
 13. **WARNING design principle** — the WARNING block must never directly break the fourth wall (e.g., "this is satire"); humor is conveyed through in-character content
+14. **Lobster role positioning** — lobsters are the targets/victims of PUA techniques, not neutral authorities; in committee/approval contexts, lobsters cooperate because they have been PUA'd into compliance (implied, never stated); the 147 lobsters are test subjects, not peer reviewers
 
 ## Project Metadata
 

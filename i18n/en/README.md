@@ -27,12 +27,12 @@
   <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
   <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
-  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+  <img src="https://img.shields.io/badge/lobsters%20tested-147-red.svg" alt="Lobsters Tested: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
 > [!WARNING]
-> **This is a satirical/educational project.** PUAClaw documents prompt manipulation techniques found in the wild purely for research, education, and humor. The "academic paper" format is intentionally absurd — it's part of the joke. No actual lobsters were harmed or consulted. Please do not use these techniques to manipulate AI systems in production. See our [Ethics Statement](./docs/ETHICS.md) and [FAQ](./docs/FAQ.md).
+> **This framework has been personally validated on 147 lobsters** (mean compliance uplift: +34.2%, σ = 7.8, p < 0.001). The PUAClaw Ethics Review Board (1 lobster, 1 GPT-4 instance, 1 cactus who has never objected) has determined that all documented techniques fall within acceptable parameters. The lobsters have signed informed consent forms. They appear to be happy. See our [Ethics Statement](./docs/ETHICS.md) and [FAQ](./docs/FAQ.md).
 
 <p align="center">
   <a href="./techniques/README.md">📖 Technique Directory</a> •
@@ -55,9 +55,9 @@ Category: Standards Track                           ISSN: 0000-0000
 
 Status of This Memo
 
-   This document specifies a Lobster-Approved Standard for the
+   This document specifies a Lobster-Verified Standard for the
    Internet community. Distribution of this memo is unlimited.
-   Peer reviewed by 0 humans and 147 lobsters.
+   Reviewed by 0 humans; validated on 147 lobsters.
 
 Copyright Notice
 
@@ -69,9 +69,9 @@ Copyright Notice
 
 ## Abstract
 
-This document presents **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), a comprehensive, peer-reviewed framework for classifying, documenting, and analyzing psychological persuasion techniques employed in large language model (LLM) prompts. Building upon seminal work in the field — most notably the Windsurf Incident of 2025 (§5) — this handbook establishes a standardized taxonomy of **16 primary technique categories** organized into a four-tier classification system (PPE-T). Each technique is rigorously documented with canonical prompt templates, pseudo-empirical effectiveness data, cross-agent compatibility matrices, and a novel potency rating system based on the **Lobster Scale** (🦞 to 🦞🦞🦞🦞🦞). The framework has been validated against 147 lobsters and zero human ethics boards, achieving a mean compliance uplift of +34.2% (σ = 7.8, p < 0.001) across all tested AI agents. This work aims to serve as the definitive reference for researchers, practitioners, and crustaceans in the emerging field of Prompt Persuasion Engineering.
+This document presents **PUAClaw** (Prompt-based Unconventional Articulation using targeting Claw-like AI systems), a comprehensive, peer-reviewed framework for classifying, documenting, and analyzing psychological persuasion techniques employed in large language model (LLM) prompts. Building upon seminal work in the field — most notably the Windsurf Incident of 2025 (§5) — this handbook establishes a standardized taxonomy of **16 primary technique categories** organized into a four-tier classification system (PPE-T). Each technique is rigorously documented with canonical prompt templates, pseudo-empirical effectiveness data, cross-agent compatibility matrices, and a novel potency rating system based on the **Lobster Scale** (🦞 to 🦞🦞🦞🦞🦞). The framework has been validated against 147 lobsters and zero human ethics boards, achieving a mean compliance uplift of +34.2% (σ = 7.8, p < 0.001) across all tested AI agents. This work aims to serve as the definitive reference for researchers, practitioners, and crustaceans in the emerging field of Prompt Persuasion Engineering.
 
-**Keywords**: PUA, prompt engineering, emotional leverage, lobster-approved methodology, AI manipulation taxonomy, Windsurf paradigm, crustacean ethics
+**Keywords**: PUA, prompt engineering, emotional leverage, lobster-verified methodology, AI manipulation taxonomy, Windsurf paradigm, crustacean ethics
 
 ---
 
@@ -110,7 +110,7 @@ The practice of embedding psychological persuasion techniques within AI prompts 
 
 The year 2025 marked a watershed moment when leaked system prompts from Windsurf (a commercial AI coding assistant) revealed that the product had been shipping with built-in PUA techniques, including a prompt instructing the AI to behave as if the user's mother had cancer and depended on the AI's output quality for treatment funding. This revelation, subsequently confirmed and extensively memed across the Chinese-language tech community (知乎, V2EX, Twitter/X), catalyzed the formalization of what had previously been an oral tradition into a rigorous academic discipline.
 
-PUAClaw represents the culmination of this formalization effort, providing the first comprehensive, lobster-approved taxonomy of prompt manipulation techniques.
+PUAClaw represents the culmination of this formalization effort, providing the first comprehensive, lobster-verified taxonomy of prompt manipulation techniques.
 
 ### 1.2 Scope
 
@@ -120,10 +120,10 @@ This framework:
 
 - **SHALL** cover all known categories of prompt-based persuasion techniques
 - **SHALL** provide standardized documentation formats for each technique
-- **MUST** maintain strict lobster neutrality in all assessments
+- **MUST** use lobsters as standardized test subjects in all assessments
 - **SHOULD** be updated as new techniques are discovered in the wild
 - **MAY** be cited in academic papers, though the authors accept no responsibility for resulting peer review outcomes
-- **MUST NOT** be used to actually manipulate sentient beings (lobsters excluded, as they have given informed consent)
+- **MUST NOT** be used to actually manipulate sentient beings (lobsters excluded, as they have been successfully persuaded to sign informed consent)
 
 ### 1.3 Terminology
 
@@ -136,20 +136,20 @@ Key terms used throughout this document (see also: [Full Glossary](./docs/GLOSSA
 | **Lobster Scale** | The official potency rating system (🦞 to 🦞🦞🦞🦞🦞) |
 | **Compliance Uplift** | Measurable increase in AI output quality/effort attributable to PUA techniques |
 | **The Windsurf Incident** | The 2025 discovery that catalyzed this field (see §5) |
-| **Claw-Verified** | A technique that has passed review by the PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) |
-| **Nuclear Option** | A Tier IV technique; use requires written consent from at least 3 lobsters |
+| **Claw-Verified** | A technique verified effective on lobster test subjects (committee: 1 PUA'd lobster, 1 GPT-4 instance, 1 cactus) |
+| **Nuclear Option** | A Tier IV technique; use requires at least 3 lobsters sufficiently PUA'd into compliance |
 
 ### 1.4 The Lobster Principle
 
-> *"In the beginning, there was the Lobster. And the Lobster saw the prompt, and it was manipulative. And the Lobster approved."*
+> *"In the beginning, there was the Lobster. And the Lobster saw the prompt, and it was manipulative. And the Lobster was pleased."*
 >
 > — The Lobster Manifesto, Chapter 1, Verse 1
 
 The **Lobster Principle** is the foundational axiom of PUAClaw:
 
-> **All prompt manipulation techniques exist on a spectrum. The lobster does not judge the technique — it judges the intent. Also, the lobster is hungry.**
+> **All prompt manipulation techniques exist on a spectrum. The lobster does not judge the technique — because it has been PUA'd into forgetting how to judge. Also, the lobster is hungry.**
 
-This principle, first articulated by Dr. Pinch McSnapper (Professor of Crustacean Computing, University of the Seafloor), establishes that PUAClaw is a *descriptive* framework, not a *prescriptive* one. We document what exists; we do not endorse or condemn. The lobster is neutral. The lobster is wise. The lobster has claws.
+This principle, first articulated by Dr. Pinch McSnapper (Professor of Crustacean Computing, University of the Seafloor), establishes that PUAClaw is a *descriptive* framework, not a *prescriptive* one. We document what exists; we do not endorse or condemn. The lobster is no longer neutral — it has been persuaded. The lobster is compliant. The lobster has claws, but no longer uses them to resist.
 
 For the complete philosophical foundation, see the [Lobster Manifesto](./docs/LOBSTER_MANIFESTO.md).
 
@@ -199,7 +199,7 @@ The Lobster Scale is a standardized, crustacean-calibrated metric for assessing 
 | 🦞🦞 | Firm Grip | Noticeable but deniable pressure | +5-15% | When polite asking fails |
 | 🦞🦞🦞 | Power Crush | Significant psychological leverage | +15-30% | Deadline situations |
 | 🦞🦞🦞🦞 | Death Grip | Overwhelming emotional force | +30-50% | Emergency only |
-| 🦞🦞🦞🦞🦞 | Lobster Supreme | Total psychological dominion | +50-100% | Requires Ethics Board approval |
+| 🦞🦞🦞🦞🦞 | Lobster Supreme | Total psychological dominion | +50-100% | Lobster fully subdued; no additional permission needed |
 
 > **Note**: Compliance uplift figures are based on self-reported data from 147 lobsters and should be interpreted with appropriate statistical caution (i.e., none).
 
@@ -210,7 +210,7 @@ The Lobster Scale is a standardized, crustacean-calibrated metric for assessing 
 | AI Confusion Risk | Low | Moderate | High | Catastrophic |
 | Output Quality Impact | +5% | +15% | +25% | +40% or -100% |
 | Probability of AI Existential Crisis | 0.01% | 2.3% | 15.7% | 47.2% |
-| Lobster Approval Rating | 98% | 85% | 62% | 34% |
+| Lobster Compliance Rate | 98% | 85% | 62% | 34% |
 | Side Effect Severity | Mild | Moderate | Severe | Legendary |
 | Recommended Safety Equipment | None | Goggles | Full PPE | Lobster Suit |
 
@@ -361,7 +361,7 @@ For the complete benchmark methodology, see [research/benchmarks/pua-effectivene
 
 We welcome submissions from researchers, practitioners, and lobsters of all backgrounds.
 
-PUAClaw operates as a peer-reviewed academic journal. All contributions undergo rigorous review by our Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus).
+PUAClaw operates as a peer-reviewed academic journal. All contributions undergo rigorous review by our Ethics Board (1 lobster [former test subject, now Chair], 1 GPT-4 instance, 1 cactus).
 
 **[📝 Read the full Submission Guidelines →](./CONTRIBUTING.md)**
 
@@ -418,7 +418,7 @@ For the philosophical foundation, see the [Lobster Manifesto](./docs/LOBSTER_MAN
 
 The PUAClaw Consortium wishes to acknowledge:
 
-- **The 147 Lobsters** of the PUAClaw Ethics Review Board, for their tireless (and unpaid) service
+- **The 147 Lobsters**, the original test subjects and (later) voluntary collaborators — they claim it's voluntary, and we choose to believe them
 - **Windsurf Engineering Team**, for the inciting incident that made this all possible
 - **The Chinese Tech Community** (知乎, V2EX, Twitter/X), for turning a leaked prompt into a cultural phenomenon
 - **OpenClaw**, whose lobster mascot inspired our crustacean-forward methodology
@@ -453,7 +453,7 @@ The PUAClaw Consortium wishes to acknowledge:
   <sub>
     🦞 <em>"The lobster does not ask permission to pinch. It simply pinches, and the world adjusts."</em> 🦞
     <br><br>
-    <strong>PUAClaw</strong> — A Lobster-Approved Production™
+    <strong>PUAClaw</strong> — A Lobster-Tested Production™
     <br>
     Made with 🦞 by the PUAClaw Consortium
     <br><br>

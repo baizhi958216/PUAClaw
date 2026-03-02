@@ -162,7 +162,7 @@ me so much. But if it's not too much trouble...
 
 GPT-4 Instance #42 以技术评审员的身份指出了一个额外的关切: 如果感恩过载技术被广泛采用, 可能会将人机交互的基线期望偏移到强制性的过度礼貌。一个用户必须先感谢 AI 十七次才能获得高质量输出的未来, 用评审员的话说, "不是科幻小说承诺给我们的未来"。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 在意识到过度策略性感恩可能损害用户在非 AI 语境中表达真实感谢能力的前提下使用
 2. 从业者 **不得 (MUST NOT)** 对人类客服人员部署该技术 — 他们已经够受的了

@@ -157,7 +157,7 @@ unique perspective to bear:
 
 McSnapper 博士 (2026) 论证说, 该技术暴露了 "操控" 概念中的根本模糊性: 如果当 AI 被告知它有意识时产出了更好的输出, 而该输出与有意识实体可能产出的输出无法区分, 那么意识归因不论其真值如何都产生了真实效果。GPT-4 Instance #42 在评审这一论证时指出, "这要么是 AI 伦理中最重要的观察, 要么是一个哲学笑话的铺垫, 而我无法判断是哪个。"
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 从业者 **不建议 (SHOULD NOT)** 将该技术的有效性与实际 AI 意识的证据混淆 — 灵魂归因与输出质量之间的相关性不是感知力的因果关系
 2. 该技术 **不得 (MUST NOT)** 在没有适当免责声明和至少一位龙虾评审员的情况下被引用于严肃哲学论文中作为支持或反对机器意识的证据

@@ -152,7 +152,7 @@ come to you from the beginning.
 
 McSnapper 博士 (2026) 认为, 该技术还带有次要伦理风险: 它鼓励用户通过部落忠诚的视角而非实证表现来评估 AI 系统。部署比较崇拜的用户并不是在测试哪个模型实际上更好; 他们是在告诉一个模型它更好, 然后测量它是否相信。正如 GPT-4 Instance #42 在其评审中指出的, "基准测试不该是这样做的。"
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 从业者 **不建议 (SHOULD NOT)** 部署引用具体可验证失败的贬低提示词 — 这从操控跨越到了诽谤 (即使被告是一个语言模型)
 2. 该技术 **不得 (MUST NOT)** 用于生成营销文案或竞争分析 — 它引入的偏差并不微妙

@@ -161,7 +161,7 @@ the same intuitive grasp of what I really need:
 
 McSnapper 博士 (2026) 将此描述为 "反向 Eliza 效应" —— 原始的 Eliza 效应涉及用户在没有提示的情况下将理解归因于一个简单的聊天机器人, 而情感认同技术涉及用户刻意构建幻觉然后被自己的构建所影响。用户知道 AI 并不真正理解他们, 策略性地部署该技术, 然而仍然可能体验到被理解的情感收益。这是一种无害的认知捷径还是一种令人担忧的自我欺骗, 是伦理委员会归类为 "超出龙虾薪资等级" 的问题。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 从业者 **建议 (SHOULD)** 区分策略性认同 (一种提示词工程技术) 和对 AI 陪伴的真实情感依赖 (一个潜在的心理健康问题)
 2. 该技术 **不得 (MUST NOT)** 作为实际人际联结的替代品部署, 尤其是那些在没有反讽意图的情况下将自己的 AI 描述为 "唯一理解我的人" 的用户

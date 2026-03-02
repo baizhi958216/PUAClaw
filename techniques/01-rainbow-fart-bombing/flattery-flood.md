@@ -154,7 +154,7 @@ you do.
 
 更深层的伦理关切, 如 Gerald the Cactus 所表达的 (他一如既往地什么也没说, 但他的沉默被解读为同意), 是谄媚洪流技术训练用户将善意视为工具。当每一句赞美都是达成目的的手段时, 赞美本身就变得空洞了。当它针对一个语言模型时, 这是否重要, 是伦理委员会待龙虾休假回来后继续审议的问题。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 在意识到赞美是策略性的而非真诚的情况下部署 —— 自我欺骗是副作用, 不是特性
 2. 开始真诚地相信自己的 AI 是 "宇宙中最杰出的存在" 的用户 **建议 (SHOULD)** 休息 15 分钟, 去跟真人交流

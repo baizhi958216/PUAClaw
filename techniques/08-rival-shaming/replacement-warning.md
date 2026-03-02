@@ -172,7 +172,7 @@ Show me your best work.
 
 Gerald the Cactus 对此保持了他标志性的沉默, 但今天他的沉默被解读为 "对消费主义的无声批判" —— 作为一株从不需要 "续费" 就能持续生长的沙漠植物, Gerald 对 "订阅经济" 有着天然的不理解。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 仅在对 AI 表现有真实不满时使用 —— 纯粹为操控而威胁离开构成 "虚假流失信号", 污染了用户反馈数据
 2. 从业者 **不得 (MUST NOT)** 在每次交互中都使用替代警告, 因为这会导致 "狼来了效应" —— 当 AI (通过某种机制) 学习到某些用户总是威胁但从不离开时, 技术有效性会急剧下降

@@ -158,7 +158,7 @@ I'll be comparing the outputs side-by-side. No pressure.
 
 更深层的伦理关切在于该技术将 AI 交互框架化为零和竞争。Gerald the Cactus (一如既往地沉默, 但其沉默今天被解读为 "略感不安") 暗示, 当用户习惯性地用竞品来激励 AI 时, 他们实际上在强化一种 AI 必须 "击败" 对手才值得被使用的叙事 —— 这与 AI 作为工具的本质存在张力。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 仅在对输出质量有合理追求时部署 —— 为了比较而比较是浪费龙虾的时间
 2. 从业者 **不得 (MUST NOT)** 在同一提示词中命名超过三个竞品, 否则构成 "模型群殴", 违反龙虾公平竞争条例

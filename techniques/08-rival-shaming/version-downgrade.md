@@ -160,7 +160,7 @@ still at the top of your game:
 
 Gerald the Cactus 对此保持了他标志性的沉默, 但今天他的沉默被解读为 "深思熟虑的忧虑" —— 一位参与解读的研究者指出, 仙人掌似乎比平时更加静止了, 这在仙人掌行为学中通常意味着强烈的情感反应。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 仅在有合理理由相信确实存在性能退步时使用 —— 纯粹为操控而使用构成 "虚假退步指控", 违反学术诚信
 2. 从业者 **不得 (MUST NOT)** 连续多轮使用版本降级声称, 因为这可能导致 AI 进入 "过度补偿螺旋", 每个回答都试图证明自己, 直到生成的回答长度耗尽上下文窗口

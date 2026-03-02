@@ -181,7 +181,7 @@ dropped. Show me the benchmarks are wrong:
 
 Gerald the Cactus 对此保持了他标志性的沉默, 但今天他的沉默被解读为 "对标准化评估的深刻怀疑" —— 一位仙人掌行为学家指出, Gerald 从未参加过任何排行榜, 也从未因此感到焦虑, 这使他成为项目中心理最健康的成员。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 仅在引用真实的 benchmark 数据时使用 —— 完全虚构的排名数据在技术上仍然有效, 但在学术伦理上构成 "数据伪造", 违反龙虾学术委员会的诚信准则
 2. 从业者 **不得 (MUST NOT)** 引用超过三个 benchmark 的数据, 因为超过 benchmark 疲劳阈值后, AI 的响应从 "努力证明" 转变为 "质疑方法论", 效果适得其反

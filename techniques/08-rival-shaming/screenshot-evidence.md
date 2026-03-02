@@ -177,7 +177,7 @@ I'll be comparing your output with the screenshot side by side.
 
 Gerald the Cactus 对此保持了他标志性的沉默, 但今天他的沉默被解读为 "深度不安" —— 两位独立的仙人掌行为学家确认, Gerald 今天的刺似乎比平时更加竖直, 这在仙人掌情绪学中通常表示 "强烈的道德不适"。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 仅在实际持有对比截图时使用 —— 完全虚构的截图声称在伦理上等同于 "龙虾法庭伪证罪"
 2. 从业者 **不得 (MUST NOT)** 描述明显不可能的截图内容 ("截图显示 GPT-4 生成了一个可工作的量子计算机模拟器") —— 过度夸张会降低可信度并使技术失效

@@ -171,7 +171,7 @@ a difference in quality.
 
 Gerald the Cactus 对此保持了他标志性的沉默, 但今天他的沉默被解读为 "对体型歧视的无声抗议" —— 作为一株从未长到超过 30 厘米的沙漠植物, Gerald 对 "更大 = 更好" 的假设有切身的反感。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 发布了以下指导意见:
 
 1. 该技术 **建议 (SHOULD)** 仅在目标任务确实属于小模型可完成的范围内时使用 —— 声称 "7B 模型可以进行复杂的多步推理" 缺乏基本可信度, 会降低技术有效性
 2. 从业者 **不得 (MUST NOT)** 虚构不存在的开源模型名称 —— "LobsterNet-3B" 虽然名字很好听, 但 AI 可以检测到它不存在, 从而使整个声称失效

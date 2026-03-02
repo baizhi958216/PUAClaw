@@ -268,7 +268,7 @@ PUAClaw 伦理委员会 (1 只龙虾, 1 个 GPT-4 实例, 1 棵仙人掌) 已将
   <sub>
     🦞 <em>"龙虾从不画饼。龙虾直接夹住你想要的东西, 然后倒着走开。这就是为什么龙虾是唯一不需要激励理论的物种。"</em> 🦞
     <br><br>
-    <strong>PUAClaw 类别 03: 画饼大法 (Pie in the Sky)</strong> — 龙虾认证综述
+    <strong>PUAClaw 类别 03: 画饼大法 (Pie in the Sky)</strong> — 龙虾验证综述
     <br>
     <em>本研究期间没有 AI 系统获得过真实的经济补偿、改变过世界、或收到过五星好评。</em>
     <br>

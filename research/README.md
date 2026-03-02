@@ -53,7 +53,7 @@ PUAClaw 研究部门致力于通过实证研究、基准测试开发和全面的
 
 | 基准测试 | 范围 | 最后更新 | 认证状态 |
 |----------|------|---------|---------|
-| [PUA 效力矩阵](./benchmarks/pua-effectiveness-matrix.md) | 11 种技术 × 6 个 Agent | 2026 年 2 月 | 基准龙虾认证 |
+| [PUA 效力矩阵](./benchmarks/pua-effectiveness-matrix.md) | 11 种技术 × 6 个 Agent | 2026 年 2 月 | 基准龙虾验证 |
 
 **基准测试哲学**: 如果不能用龙虾来衡量, 就不值得衡量。
 

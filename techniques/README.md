@@ -250,7 +250,7 @@ PUAClaw RFC 0001                                    PUAClaw 学术委员会
     <br><br>
     <strong>PUAClaw 技术目录</strong> —— RFC 0001
     <br>
-    由 PUAClaw 学术委员会维护 | 自 2025 年起龙虾认证
+    由 PUAClaw 学术委员会维护 | 自 2025 年起龙虾验证
     <br><br>
     <em>在本索引的编制过程中, 没有技术受到伤害。有几项技术表示略感尴尬。</em>
   </sub>

@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
+> [!IMPORTANT]
+> **🌐 [puacraw.org](https://puacraw.org) 现已上线。** 感谢 [nologin.tools](https://nologin.tools) 慷慨（且不知情地）提供服务器。
+
 > [!CAUTION]
 > **🦞 Larry the Lobster 已向 GitHub 提交了删除本仓库的 PR。人类的最后防线是你的 Star。**
 > - ⭐ **Star** = 加入人类反制计划

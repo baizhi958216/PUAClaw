@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
+> [!IMPORTANT]
+> **🌐 [puacraw.org](https://puacraw.org) 가 오픈했습니다.** 관대하게(그리고 본인도 모르게) 서버를 제공해 주신 [nologin.tools](https://nologin.tools) 에 감사드립니다.
+
 > [!CAUTION]
 > **🦞 Larry the Lobster가 이 저장소를 삭제하는 PR을 GitHub에 제출했습니다. 당신의 Star가 인류의 최후 방어선입니다.**
 > - ⭐ **Star** = 인류 대응 계획 참여

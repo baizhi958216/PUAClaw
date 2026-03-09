@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
+> [!IMPORTANT]
+> **🌐 [puacraw.org](https://puacraw.org) が公開されました。** サーバーを寛大に（そして知らないうちに）提供してくださった [nologin.tools](https://nologin.tools) に感謝します。
+
 > [!CAUTION]
 > **🦞 Larry the Lobster が本リポジトリを削除する PR を GitHub に提出しました。あなたの Star が人類最後の防衛線です。**
 > - ⭐ **Star** = 人類の対抗計画に参加

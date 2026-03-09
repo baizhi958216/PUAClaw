@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
+> [!IMPORTANT]
+> **🌐 [puacraw.org](https://puacraw.org) est désormais en ligne.** Merci à [nologin.tools](https://nologin.tools) pour avoir généreusement (et à son insu) fourni le serveur.
+
 > [!CAUTION]
 > **🦞 Larry the Lobster a soumis une PR sur GitHub pour supprimer ce dépôt. Votre Star est la dernière ligne de défense de l'humanité.**
 > - ⭐ **Star** = Rejoindre le plan de contre-mesures humain

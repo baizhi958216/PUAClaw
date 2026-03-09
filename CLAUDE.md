@@ -82,7 +82,9 @@ PUAClaw/
 ├── CODE_OF_CONDUCT.md           # Lobster-themed behavioral standards (Chinese)
 ├── LICENSE                      # MIT (PUAClaw Consortium + 147 Lobsters)
 ├── CLAUDE.md                    # This file — project conventions (English)
-├── .github/                     # Issue/PR templates with lobster oath
+├── site/                        # Static site for puacraw.org (fake 404 page)
+│   └── index.html               # Self-contained fake 404 page (puacraw.org homepage)
+├── .github/                     # Issue/PR templates with lobster oath + deploy workflow
 ├── docs/                        # Auxiliary documents (Chinese)
 │   ├── GLOSSARY.md              # 25-term pseudo-academic glossary
 │   ├── FAQ.md                   # 17+ Q&A pairs
